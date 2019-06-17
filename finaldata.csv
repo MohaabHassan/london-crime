@@ -1,0 +1,2026 @@
+year,borough,major_category,total_crime,Latitude,Longitude
+2008,Barking and Dagenham,Burglary,1764,0.133158,51.5465
+2008,Barking and Dagenham,Criminal Damage,2934,0.133158,51.5465
+2008,Barking and Dagenham,Drugs,1467,0.133158,51.5465
+2008,Barking and Dagenham,Other Notifiable Offences,253,0.133158,51.5465
+2008,Barking and Dagenham,Robbery,635,0.133158,51.5465
+2008,Barking and Dagenham,Theft and Handling,5354,0.133158,51.5465
+2008,Barking and Dagenham,Violence Against the Person,4995,0.133158,51.5465
+2008,Barnet,Burglary,3750,-0.19622,51.6455
+2008,Barnet,Criminal Damage,2918,-0.19622,51.6455
+2008,Barnet,Drugs,1264,-0.19622,51.6455
+2008,Barnet,Other Notifiable Offences,297,-0.19622,51.6455
+2008,Barnet,Robbery,794,-0.19622,51.6455
+2008,Barnet,Theft and Handling,9872,-0.19622,51.6455
+2008,Barnet,Violence Against the Person,4836,-0.19622,51.6455
+2008,Bexley,Burglary,2284,0.110969,51.45964
+2008,Bexley,Criminal Damage,2893,0.110969,51.45964
+2008,Bexley,Drugs,996,0.110969,51.45964
+2008,Bexley,Other Notifiable Offences,148,0.110969,51.45964
+2008,Bexley,Robbery,349,0.110969,51.45964
+2008,Bexley,Theft and Handling,5236,0.110969,51.45964
+2008,Bexley,Violence Against the Person,3271,0.110969,51.45964
+2008,Brent,Burglary,3266,-0.271275,51.5436
+2008,Brent,Criminal Damage,2504,-0.271275,51.5436
+2008,Brent,Drugs,2813,-0.271275,51.5436
+2008,Brent,Other Notifiable Offences,274,-0.271275,51.5436
+2008,Brent,Robbery,1555,-0.271275,51.5436
+2008,Brent,Theft and Handling,7206,-0.271275,51.5436
+2008,Brent,Violence Against the Person,5690,-0.271275,51.5436
+2008,Bromley,Burglary,3447,0.01493,51.4057
+2008,Bromley,Criminal Damage,4230,0.01493,51.4057
+2008,Bromley,Drugs,1089,0.01493,51.4057
+2008,Bromley,Other Notifiable Offences,220,0.01493,51.4057
+2008,Bromley,Robbery,762,0.01493,51.4057
+2008,Bromley,Theft and Handling,8809,0.01493,51.4057
+2008,Bromley,Violence Against the Person,5231,0.01493,51.4057
+2008,Camden,Burglary,3575,-0.12796,51.53236
+2008,Camden,Criminal Damage,2629,-0.12796,51.53236
+2008,Camden,Drugs,3982,-0.12796,51.53236
+2008,Camden,Other Notifiable Offences,459,-0.12796,51.53236
+2008,Camden,Robbery,913,-0.12796,51.53236
+2008,Camden,Theft and Handling,14394,-0.12796,51.53236
+2008,Camden,Violence Against the Person,5899,-0.12796,51.53236
+2008,Croydon,Burglary,3737,-0.073803,51.36496
+2008,Croydon,Criminal Damage,4511,-0.073803,51.36496
+2008,Croydon,Drugs,2798,-0.073803,51.36496
+2008,Croydon,Other Notifiable Offences,386,-0.073803,51.36496
+2008,Croydon,Robbery,1394,-0.073803,51.36496
+2008,Croydon,Theft and Handling,9604,-0.073803,51.36496
+2008,Croydon,Violence Against the Person,6761,-0.073803,51.36496
+2008,Ealing,Burglary,3837,-0.29991,51.51407
+2008,Ealing,Criminal Damage,3365,-0.29991,51.51407
+2008,Ealing,Drugs,3083,-0.29991,51.51407
+2008,Ealing,Other Notifiable Offences,410,-0.29991,51.51407
+2008,Ealing,Robbery,1308,-0.29991,51.51407
+2008,Ealing,Theft and Handling,9562,-0.29991,51.51407
+2008,Ealing,Violence Against the Person,7155,-0.29991,51.51407
+2008,Enfield,Burglary,3819,-0.076348,51.667797
+2008,Enfield,Criminal Damage,3379,-0.076348,51.667797
+2008,Enfield,Drugs,2125,-0.076348,51.667797
+2008,Enfield,Other Notifiable Offences,247,-0.076348,51.667797
+2008,Enfield,Robbery,1019,-0.076348,51.667797
+2008,Enfield,Theft and Handling,7454,-0.076348,51.667797
+2008,Enfield,Violence Against the Person,3767,-0.076348,51.667797
+2008,Greenwich,Burglary,3008,0.00257,51.48451
+2008,Greenwich,Criminal Damage,3353,0.00257,51.48451
+2008,Greenwich,Drugs,1612,0.00257,51.48451
+2008,Greenwich,Other Notifiable Offences,317,0.00257,51.48451
+2008,Greenwich,Robbery,898,0.00257,51.48451
+2008,Greenwich,Theft and Handling,7162,0.00257,51.48451
+2008,Greenwich,Violence Against the Person,5497,0.00257,51.48451
+2008,Hackney,Burglary,2161,-0.05833,51.55
+2008,Hackney,Criminal Damage,2199,-0.05833,51.55
+2008,Hackney,Drugs,3197,-0.05833,51.55
+2008,Hackney,Other Notifiable Offences,337,-0.05833,51.55
+2008,Hackney,Robbery,894,-0.05833,51.55
+2008,Hackney,Theft and Handling,7569,-0.05833,51.55
+2008,Hackney,Violence Against the Person,5458,-0.05833,51.55
+2008,Hammersmith and Fulham,Burglary,2438,-0.220817,51.495045
+2008,Hammersmith and Fulham,Criminal Damage,2068,-0.220817,51.495045
+2008,Hammersmith and Fulham,Drugs,2068,-0.220817,51.495045
+2008,Hammersmith and Fulham,Other Notifiable Offences,256,-0.220817,51.495045
+2008,Hammersmith and Fulham,Robbery,664,-0.220817,51.495045
+2008,Hammersmith and Fulham,Theft and Handling,8800,-0.220817,51.495045
+2008,Hammersmith and Fulham,Violence Against the Person,4684,-0.220817,51.495045
+2008,Haringey,Burglary,3679,-0.071193,51.58784
+2008,Haringey,Criminal Damage,3422,-0.071193,51.58784
+2008,Haringey,Drugs,2468,-0.071193,51.58784
+2008,Haringey,Other Notifiable Offences,284,-0.071193,51.58784
+2008,Haringey,Robbery,1147,-0.071193,51.58784
+2008,Haringey,Theft and Handling,9373,-0.071193,51.58784
+2008,Haringey,Violence Against the Person,5104,-0.071193,51.58784
+2008,Harrow,Burglary,2290,-0.46443,51.4801
+2008,Harrow,Criminal Damage,1778,-0.46443,51.4801
+2008,Harrow,Drugs,1010,-0.46443,51.4801
+2008,Harrow,Other Notifiable Offences,198,-0.46443,51.4801
+2008,Harrow,Robbery,550,-0.46443,51.4801
+2008,Harrow,Theft and Handling,4864,-0.46443,51.4801
+2008,Harrow,Violence Against the Person,2965,-0.46443,51.4801
+2008,Havering,Burglary,2403,0.255151,51.570454
+2008,Havering,Criminal Damage,2885,0.255151,51.570454
+2008,Havering,Drugs,1016,0.255151,51.570454
+2008,Havering,Other Notifiable Offences,185,0.255151,51.570454
+2008,Havering,Robbery,297,0.255151,51.570454
+2008,Havering,Theft and Handling,5635,0.255151,51.570454
+2008,Havering,Violence Against the Person,2776,0.255151,51.570454
+2008,Hillingdon,Burglary,2867,-0.44998,51.54304
+2008,Hillingdon,Criminal Damage,3667,-0.44998,51.54304
+2008,Hillingdon,Drugs,1830,-0.44998,51.54304
+2008,Hillingdon,Other Notifiable Offences,461,-0.44998,51.54304
+2008,Hillingdon,Robbery,749,-0.44998,51.54304
+2008,Hillingdon,Theft and Handling,8529,-0.44998,51.54304
+2008,Hillingdon,Violence Against the Person,5948,-0.44998,51.54304
+2008,Hounslow,Burglary,2411,-0.361667,51.4675
+2008,Hounslow,Criminal Damage,3003,-0.361667,51.4675
+2008,Hounslow,Drugs,1937,-0.361667,51.4675
+2008,Hounslow,Other Notifiable Offences,378,-0.361667,51.4675
+2008,Hounslow,Robbery,665,-0.361667,51.4675
+2008,Hounslow,Theft and Handling,6552,-0.361667,51.4675
+2008,Hounslow,Violence Against the Person,5035,-0.361667,51.4675
+2008,Islington,Burglary,2769,-0.10614,51.53279
+2008,Islington,Criminal Damage,2535,-0.10614,51.53279
+2008,Islington,Drugs,3140,-0.10614,51.53279
+2008,Islington,Other Notifiable Offences,386,-0.10614,51.53279
+2008,Islington,Robbery,1022,-0.10614,51.53279
+2008,Islington,Theft and Handling,11063,-0.10614,51.53279
+2008,Islington,Violence Against the Person,5233,-0.10614,51.53279
+2008,Kensington and Chelsea,Burglary,1783,-0.192221,51.501205
+2008,Kensington and Chelsea,Criminal Damage,1413,-0.192221,51.501205
+2008,Kensington and Chelsea,Drugs,2784,-0.192221,51.501205
+2008,Kensington and Chelsea,Other Notifiable Offences,253,-0.192221,51.501205
+2008,Kensington and Chelsea,Robbery,530,-0.192221,51.501205
+2008,Kensington and Chelsea,Theft and Handling,10745,-0.192221,51.501205
+2008,Kensington and Chelsea,Violence Against the Person,3046,-0.192221,51.501205
+2008,Kingston upon Thames,Burglary,1054,-0.29142,51.41104
+2008,Kingston upon Thames,Criminal Damage,1658,-0.29142,51.41104
+2008,Kingston upon Thames,Drugs,611,-0.29142,51.41104
+2008,Kingston upon Thames,Other Notifiable Offences,152,-0.29142,51.41104
+2008,Kingston upon Thames,Robbery,249,-0.29142,51.41104
+2008,Kingston upon Thames,Theft and Handling,4614,-0.29142,51.41104
+2008,Kingston upon Thames,Violence Against the Person,2240,-0.29142,51.41104
+2008,Lambeth,Burglary,3269,-0.11108,51.49085
+2008,Lambeth,Criminal Damage,3589,-0.11108,51.49085
+2008,Lambeth,Drugs,3848,-0.11108,51.49085
+2008,Lambeth,Other Notifiable Offences,544,-0.11108,51.49085
+2008,Lambeth,Robbery,1992,-0.11108,51.49085
+2008,Lambeth,Theft and Handling,10869,-0.11108,51.49085
+2008,Lambeth,Violence Against the Person,7399,-0.11108,51.49085
+2008,Lewisham,Burglary,2659,-0.01213,51.45916
+2008,Lewisham,Criminal Damage,3710,-0.01213,51.45916
+2008,Lewisham,Drugs,2475,-0.01213,51.45916
+2008,Lewisham,Other Notifiable Offences,425,-0.01213,51.45916
+2008,Lewisham,Robbery,1251,-0.01213,51.45916
+2008,Lewisham,Theft and Handling,8262,-0.01213,51.45916
+2008,Lewisham,Violence Against the Person,7939,-0.01213,51.45916
+2008,Merton,Burglary,1811,-0.166667,51.3833
+2008,Merton,Criminal Damage,2149,-0.166667,51.3833
+2008,Merton,Drugs,917,-0.166667,51.3833
+2008,Merton,Other Notifiable Offences,213,-0.166667,51.3833
+2008,Merton,Robbery,498,-0.166667,51.3833
+2008,Merton,Theft and Handling,4580,-0.166667,51.3833
+2008,Merton,Violence Against the Person,3570,-0.166667,51.3833
+2008,Newham,Burglary,3033,0.013242,51.524384
+2008,Newham,Criminal Damage,3690,0.013242,51.524384
+2008,Newham,Drugs,2526,0.013242,51.524384
+2008,Newham,Other Notifiable Offences,416,0.013242,51.524384
+2008,Newham,Robbery,1618,0.013242,51.524384
+2008,Newham,Theft and Handling,11295,0.013242,51.524384
+2008,Newham,Violence Against the Person,6808,0.013242,51.524384
+2008,Redbridge,Burglary,3199,0.083333,51.5667
+2008,Redbridge,Criminal Damage,2533,0.083333,51.5667
+2008,Redbridge,Drugs,2064,0.083333,51.5667
+2008,Redbridge,Other Notifiable Offences,194,0.083333,51.5667
+2008,Redbridge,Robbery,926,0.083333,51.5667
+2008,Redbridge,Theft and Handling,7825,0.083333,51.5667
+2008,Redbridge,Violence Against the Person,3817,0.083333,51.5667
+2008,Richmond upon Thames,Burglary,1897,-0.312531,51.442757
+2008,Richmond upon Thames,Criminal Damage,1640,-0.312531,51.442757
+2008,Richmond upon Thames,Drugs,725,-0.312531,51.442757
+2008,Richmond upon Thames,Other Notifiable Offences,134,-0.312531,51.442757
+2008,Richmond upon Thames,Robbery,218,-0.312531,51.442757
+2008,Richmond upon Thames,Theft and Handling,4559,-0.312531,51.442757
+2008,Richmond upon Thames,Violence Against the Person,1870,-0.312531,51.442757
+2008,Southwark,Burglary,3185,-0.08921,51.50541
+2008,Southwark,Criminal Damage,3317,-0.08921,51.50541
+2008,Southwark,Drugs,4178,-0.08921,51.50541
+2008,Southwark,Other Notifiable Offences,563,-0.08921,51.50541
+2008,Southwark,Robbery,1651,-0.08921,51.50541
+2008,Southwark,Theft and Handling,12222,-0.08921,51.50541
+2008,Southwark,Violence Against the Person,7993,-0.08921,51.50541
+2008,Sutton,Burglary,1648,-0.166667,51.3333
+2008,Sutton,Criminal Damage,2415,-0.166667,51.3333
+2008,Sutton,Drugs,491,-0.166667,51.3333
+2008,Sutton,Other Notifiable Offences,161,-0.166667,51.3333
+2008,Sutton,Robbery,317,-0.166667,51.3333
+2008,Sutton,Theft and Handling,5284,-0.166667,51.3333
+2008,Sutton,Violence Against the Person,2550,-0.166667,51.3333
+2008,Tower Hamlets,Burglary,2092,-0.05457,51.52017
+2008,Tower Hamlets,Criminal Damage,2869,-0.05457,51.52017
+2008,Tower Hamlets,Drugs,2769,-0.05457,51.52017
+2008,Tower Hamlets,Other Notifiable Offences,416,-0.05457,51.52017
+2008,Tower Hamlets,Robbery,991,-0.05457,51.52017
+2008,Tower Hamlets,Theft and Handling,8847,-0.05457,51.52017
+2008,Tower Hamlets,Violence Against the Person,5423,-0.05457,51.52017
+2008,Waltham Forest,Burglary,3174,-0.015955,51.601154
+2008,Waltham Forest,Criminal Damage,3160,-0.015955,51.601154
+2008,Waltham Forest,Drugs,2165,-0.015955,51.601154
+2008,Waltham Forest,Other Notifiable Offences,277,-0.015955,51.601154
+2008,Waltham Forest,Robbery,1414,-0.015955,51.601154
+2008,Waltham Forest,Theft and Handling,8253,-0.015955,51.601154
+2008,Waltham Forest,Violence Against the Person,5367,-0.015955,51.601154
+2008,Wandsworth,Burglary,2821,-0.194861,51.4573
+2008,Wandsworth,Criminal Damage,2857,-0.194861,51.4573
+2008,Wandsworth,Drugs,1281,-0.194861,51.4573
+2008,Wandsworth,Other Notifiable Offences,280,-0.194861,51.4573
+2008,Wandsworth,Robbery,1030,-0.194861,51.4573
+2008,Wandsworth,Theft and Handling,10033,-0.194861,51.4573
+2008,Wandsworth,Violence Against the Person,4820,-0.194861,51.4573
+2008,Westminster,Burglary,2962,-0.12802,51.50008
+2008,Westminster,Criminal Damage,2599,-0.12802,51.50008
+2008,Westminster,Drugs,4075,-0.12802,51.50008
+2008,Westminster,Other Notifiable Offences,588,-0.12802,51.50008
+2008,Westminster,Robbery,1327,-0.12802,51.50008
+2008,Westminster,Theft and Handling,29266,-0.12802,51.50008
+2008,Westminster,Violence Against the Person,6697,-0.12802,51.50008
+2009,Barking and Dagenham,Burglary,2418,0.133158,51.5465
+2009,Barking and Dagenham,Criminal Damage,2721,0.133158,51.5465
+2009,Barking and Dagenham,Drugs,997,0.133158,51.5465
+2009,Barking and Dagenham,Other Notifiable Offences,334,0.133158,51.5465
+2009,Barking and Dagenham,Robbery,785,0.133158,51.5465
+2009,Barking and Dagenham,Theft and Handling,5384,0.133158,51.5465
+2009,Barking and Dagenham,Violence Against the Person,5074,0.133158,51.5465
+2009,Barnet,Burglary,4090,-0.19622,51.6455
+2009,Barnet,Criminal Damage,2628,-0.19622,51.6455
+2009,Barnet,Drugs,1397,-0.19622,51.6455
+2009,Barnet,Other Notifiable Offences,273,-0.19622,51.6455
+2009,Barnet,Robbery,890,-0.19622,51.6455
+2009,Barnet,Theft and Handling,9441,-0.19622,51.6455
+2009,Barnet,Violence Against the Person,4730,-0.19622,51.6455
+2009,Bexley,Burglary,2054,0.110969,51.45964
+2009,Bexley,Criminal Damage,2716,0.110969,51.45964
+2009,Bexley,Drugs,781,0.110969,51.45964
+2009,Bexley,Other Notifiable Offences,175,0.110969,51.45964
+2009,Bexley,Robbery,312,0.110969,51.45964
+2009,Bexley,Theft and Handling,4793,0.110969,51.45964
+2009,Bexley,Violence Against the Person,3614,0.110969,51.45964
+2009,Brent,Burglary,3546,-0.271275,51.5436
+2009,Brent,Criminal Damage,2647,-0.271275,51.5436
+2009,Brent,Drugs,2579,-0.271275,51.5436
+2009,Brent,Other Notifiable Offences,301,-0.271275,51.5436
+2009,Brent,Robbery,1630,-0.271275,51.5436
+2009,Brent,Theft and Handling,7659,-0.271275,51.5436
+2009,Brent,Violence Against the Person,6386,-0.271275,51.5436
+2009,Bromley,Burglary,3626,0.01493,51.4057
+2009,Bromley,Criminal Damage,3462,0.01493,51.4057
+2009,Bromley,Drugs,1101,0.01493,51.4057
+2009,Bromley,Other Notifiable Offences,270,0.01493,51.4057
+2009,Bromley,Robbery,544,0.01493,51.4057
+2009,Bromley,Theft and Handling,7641,0.01493,51.4057
+2009,Bromley,Violence Against the Person,5214,0.01493,51.4057
+2009,Camden,Burglary,3311,-0.12796,51.53236
+2009,Camden,Criminal Damage,2569,-0.12796,51.53236
+2009,Camden,Drugs,3244,-0.12796,51.53236
+2009,Camden,Other Notifiable Offences,409,-0.12796,51.53236
+2009,Camden,Robbery,1002,-0.12796,51.53236
+2009,Camden,Theft and Handling,15537,-0.12796,51.53236
+2009,Camden,Violence Against the Person,5540,-0.12796,51.53236
+2009,Croydon,Burglary,4210,-0.073803,51.36496
+2009,Croydon,Criminal Damage,4224,-0.073803,51.36496
+2009,Croydon,Drugs,2534,-0.073803,51.36496
+2009,Croydon,Other Notifiable Offences,416,-0.073803,51.36496
+2009,Croydon,Robbery,1501,-0.073803,51.36496
+2009,Croydon,Theft and Handling,10026,-0.073803,51.36496
+2009,Croydon,Violence Against the Person,6873,-0.073803,51.36496
+2009,Ealing,Burglary,3881,-0.29991,51.51407
+2009,Ealing,Criminal Damage,3434,-0.29991,51.51407
+2009,Ealing,Drugs,2355,-0.29991,51.51407
+2009,Ealing,Other Notifiable Offences,393,-0.29991,51.51407
+2009,Ealing,Robbery,1166,-0.29991,51.51407
+2009,Ealing,Theft and Handling,10119,-0.29991,51.51407
+2009,Ealing,Violence Against the Person,7269,-0.29991,51.51407
+2009,Enfield,Burglary,3880,-0.076348,51.667797
+2009,Enfield,Criminal Damage,3251,-0.076348,51.667797
+2009,Enfield,Drugs,1620,-0.076348,51.667797
+2009,Enfield,Other Notifiable Offences,281,-0.076348,51.667797
+2009,Enfield,Robbery,1136,-0.076348,51.667797
+2009,Enfield,Theft and Handling,6807,-0.076348,51.667797
+2009,Enfield,Violence Against the Person,4172,-0.076348,51.667797
+2009,Greenwich,Burglary,2701,0.00257,51.48451
+2009,Greenwich,Criminal Damage,3190,0.00257,51.48451
+2009,Greenwich,Drugs,1281,0.00257,51.48451
+2009,Greenwich,Other Notifiable Offences,406,0.00257,51.48451
+2009,Greenwich,Robbery,680,0.00257,51.48451
+2009,Greenwich,Theft and Handling,6574,0.00257,51.48451
+2009,Greenwich,Violence Against the Person,5019,0.00257,51.48451
+2009,Hackney,Burglary,2272,-0.05833,51.55
+2009,Hackney,Criminal Damage,1945,-0.05833,51.55
+2009,Hackney,Drugs,2734,-0.05833,51.55
+2009,Hackney,Other Notifiable Offences,328,-0.05833,51.55
+2009,Hackney,Robbery,802,-0.05833,51.55
+2009,Hackney,Theft and Handling,7249,-0.05833,51.55
+2009,Hackney,Violence Against the Person,5388,-0.05833,51.55
+2009,Hammersmith and Fulham,Burglary,1918,-0.220817,51.495045
+2009,Hammersmith and Fulham,Criminal Damage,1923,-0.220817,51.495045
+2009,Hammersmith and Fulham,Drugs,1935,-0.220817,51.495045
+2009,Hammersmith and Fulham,Other Notifiable Offences,309,-0.220817,51.495045
+2009,Hammersmith and Fulham,Robbery,653,-0.220817,51.495045
+2009,Hammersmith and Fulham,Theft and Handling,9921,-0.220817,51.495045
+2009,Hammersmith and Fulham,Violence Against the Person,4552,-0.220817,51.495045
+2009,Haringey,Burglary,3662,-0.071193,51.58784
+2009,Haringey,Criminal Damage,2991,-0.071193,51.58784
+2009,Haringey,Drugs,2143,-0.071193,51.58784
+2009,Haringey,Other Notifiable Offences,266,-0.071193,51.58784
+2009,Haringey,Robbery,1045,-0.071193,51.58784
+2009,Haringey,Theft and Handling,8601,-0.071193,51.58784
+2009,Haringey,Violence Against the Person,4996,-0.071193,51.58784
+2009,Harrow,Burglary,2333,-0.46443,51.4801
+2009,Harrow,Criminal Damage,1886,-0.46443,51.4801
+2009,Harrow,Drugs,901,-0.46443,51.4801
+2009,Harrow,Other Notifiable Offences,207,-0.46443,51.4801
+2009,Harrow,Robbery,447,-0.46443,51.4801
+2009,Harrow,Theft and Handling,4893,-0.46443,51.4801
+2009,Harrow,Violence Against the Person,3281,-0.46443,51.4801
+2009,Havering,Burglary,2652,0.255151,51.570454
+2009,Havering,Criminal Damage,2370,0.255151,51.570454
+2009,Havering,Drugs,928,0.255151,51.570454
+2009,Havering,Other Notifiable Offences,171,0.255151,51.570454
+2009,Havering,Robbery,308,0.255151,51.570454
+2009,Havering,Theft and Handling,5067,0.255151,51.570454
+2009,Havering,Violence Against the Person,3042,0.255151,51.570454
+2009,Hillingdon,Burglary,3256,-0.44998,51.54304
+2009,Hillingdon,Criminal Damage,3303,-0.44998,51.54304
+2009,Hillingdon,Drugs,1488,-0.44998,51.54304
+2009,Hillingdon,Other Notifiable Offences,608,-0.44998,51.54304
+2009,Hillingdon,Robbery,645,-0.44998,51.54304
+2009,Hillingdon,Theft and Handling,9441,-0.44998,51.54304
+2009,Hillingdon,Violence Against the Person,5864,-0.44998,51.54304
+2009,Hounslow,Burglary,2637,-0.361667,51.4675
+2009,Hounslow,Criminal Damage,2758,-0.361667,51.4675
+2009,Hounslow,Drugs,1668,-0.361667,51.4675
+2009,Hounslow,Other Notifiable Offences,357,-0.361667,51.4675
+2009,Hounslow,Robbery,574,-0.361667,51.4675
+2009,Hounslow,Theft and Handling,6706,-0.361667,51.4675
+2009,Hounslow,Violence Against the Person,5083,-0.361667,51.4675
+2009,Islington,Burglary,2801,-0.10614,51.53279
+2009,Islington,Criminal Damage,2432,-0.10614,51.53279
+2009,Islington,Drugs,2345,-0.10614,51.53279
+2009,Islington,Other Notifiable Offences,380,-0.10614,51.53279
+2009,Islington,Robbery,847,-0.10614,51.53279
+2009,Islington,Theft and Handling,11278,-0.10614,51.53279
+2009,Islington,Violence Against the Person,5402,-0.10614,51.53279
+2009,Kensington and Chelsea,Burglary,1696,-0.192221,51.501205
+2009,Kensington and Chelsea,Criminal Damage,1172,-0.192221,51.501205
+2009,Kensington and Chelsea,Drugs,2064,-0.192221,51.501205
+2009,Kensington and Chelsea,Other Notifiable Offences,251,-0.192221,51.501205
+2009,Kensington and Chelsea,Robbery,522,-0.192221,51.501205
+2009,Kensington and Chelsea,Theft and Handling,10147,-0.192221,51.501205
+2009,Kensington and Chelsea,Violence Against the Person,2890,-0.192221,51.501205
+2009,Kingston upon Thames,Burglary,1229,-0.29142,51.41104
+2009,Kingston upon Thames,Criminal Damage,1433,-0.29142,51.41104
+2009,Kingston upon Thames,Drugs,507,-0.29142,51.41104
+2009,Kingston upon Thames,Other Notifiable Offences,146,-0.29142,51.41104
+2009,Kingston upon Thames,Robbery,260,-0.29142,51.41104
+2009,Kingston upon Thames,Theft and Handling,4478,-0.29142,51.41104
+2009,Kingston upon Thames,Violence Against the Person,2110,-0.29142,51.41104
+2009,Lambeth,Burglary,3833,-0.11108,51.49085
+2009,Lambeth,Criminal Damage,3478,-0.11108,51.49085
+2009,Lambeth,Drugs,3154,-0.11108,51.49085
+2009,Lambeth,Other Notifiable Offences,492,-0.11108,51.49085
+2009,Lambeth,Robbery,2159,-0.11108,51.49085
+2009,Lambeth,Theft and Handling,10812,-0.11108,51.49085
+2009,Lambeth,Violence Against the Person,7297,-0.11108,51.49085
+2009,Lewisham,Burglary,2925,-0.01213,51.45916
+2009,Lewisham,Criminal Damage,3546,-0.01213,51.45916
+2009,Lewisham,Drugs,2348,-0.01213,51.45916
+2009,Lewisham,Other Notifiable Offences,506,-0.01213,51.45916
+2009,Lewisham,Robbery,1196,-0.01213,51.45916
+2009,Lewisham,Theft and Handling,7377,-0.01213,51.45916
+2009,Lewisham,Violence Against the Person,7284,-0.01213,51.45916
+2009,Merton,Burglary,1891,-0.166667,51.3833
+2009,Merton,Criminal Damage,2070,-0.166667,51.3833
+2009,Merton,Drugs,830,-0.166667,51.3833
+2009,Merton,Other Notifiable Offences,190,-0.166667,51.3833
+2009,Merton,Robbery,520,-0.166667,51.3833
+2009,Merton,Theft and Handling,4682,-0.166667,51.3833
+2009,Merton,Violence Against the Person,3378,-0.166667,51.3833
+2009,Newham,Burglary,3124,0.013242,51.524384
+2009,Newham,Criminal Damage,3431,0.013242,51.524384
+2009,Newham,Drugs,2365,0.013242,51.524384
+2009,Newham,Other Notifiable Offences,378,0.013242,51.524384
+2009,Newham,Robbery,1907,0.013242,51.524384
+2009,Newham,Theft and Handling,10632,0.013242,51.524384
+2009,Newham,Violence Against the Person,6773,0.013242,51.524384
+2009,Redbridge,Burglary,3321,0.083333,51.5667
+2009,Redbridge,Criminal Damage,2405,0.083333,51.5667
+2009,Redbridge,Drugs,2062,0.083333,51.5667
+2009,Redbridge,Other Notifiable Offences,213,0.083333,51.5667
+2009,Redbridge,Robbery,897,0.083333,51.5667
+2009,Redbridge,Theft and Handling,8074,0.083333,51.5667
+2009,Redbridge,Violence Against the Person,3865,0.083333,51.5667
+2009,Richmond upon Thames,Burglary,1712,-0.312531,51.442757
+2009,Richmond upon Thames,Criminal Damage,1587,-0.312531,51.442757
+2009,Richmond upon Thames,Drugs,593,-0.312531,51.442757
+2009,Richmond upon Thames,Other Notifiable Offences,105,-0.312531,51.442757
+2009,Richmond upon Thames,Robbery,206,-0.312531,51.442757
+2009,Richmond upon Thames,Theft and Handling,4403,-0.312531,51.442757
+2009,Richmond upon Thames,Violence Against the Person,2012,-0.312531,51.442757
+2009,Southwark,Burglary,3027,-0.08921,51.50541
+2009,Southwark,Criminal Damage,2969,-0.08921,51.50541
+2009,Southwark,Drugs,3917,-0.08921,51.50541
+2009,Southwark,Other Notifiable Offences,665,-0.08921,51.50541
+2009,Southwark,Robbery,1725,-0.08921,51.50541
+2009,Southwark,Theft and Handling,10450,-0.08921,51.50541
+2009,Southwark,Violence Against the Person,7870,-0.08921,51.50541
+2009,Sutton,Burglary,1497,-0.166667,51.3333
+2009,Sutton,Criminal Damage,2137,-0.166667,51.3333
+2009,Sutton,Drugs,513,-0.166667,51.3333
+2009,Sutton,Other Notifiable Offences,140,-0.166667,51.3333
+2009,Sutton,Robbery,315,-0.166667,51.3333
+2009,Sutton,Theft and Handling,4992,-0.166667,51.3333
+2009,Sutton,Violence Against the Person,2646,-0.166667,51.3333
+2009,Tower Hamlets,Burglary,1836,-0.05457,51.52017
+2009,Tower Hamlets,Criminal Damage,2678,-0.05457,51.52017
+2009,Tower Hamlets,Drugs,2792,-0.05457,51.52017
+2009,Tower Hamlets,Other Notifiable Offences,400,-0.05457,51.52017
+2009,Tower Hamlets,Robbery,787,-0.05457,51.52017
+2009,Tower Hamlets,Theft and Handling,8011,-0.05457,51.52017
+2009,Tower Hamlets,Violence Against the Person,5455,-0.05457,51.52017
+2009,Waltham Forest,Burglary,3399,-0.015955,51.601154
+2009,Waltham Forest,Criminal Damage,2924,-0.015955,51.601154
+2009,Waltham Forest,Drugs,2123,-0.015955,51.601154
+2009,Waltham Forest,Other Notifiable Offences,336,-0.015955,51.601154
+2009,Waltham Forest,Robbery,1525,-0.015955,51.601154
+2009,Waltham Forest,Theft and Handling,8813,-0.015955,51.601154
+2009,Waltham Forest,Violence Against the Person,5641,-0.015955,51.601154
+2009,Wandsworth,Burglary,2924,-0.194861,51.4573
+2009,Wandsworth,Criminal Damage,2721,-0.194861,51.4573
+2009,Wandsworth,Drugs,1356,-0.194861,51.4573
+2009,Wandsworth,Other Notifiable Offences,327,-0.194861,51.4573
+2009,Wandsworth,Robbery,1172,-0.194861,51.4573
+2009,Wandsworth,Theft and Handling,9517,-0.194861,51.4573
+2009,Wandsworth,Violence Against the Person,5004,-0.194861,51.4573
+2009,Westminster,Burglary,2957,-0.12802,51.50008
+2009,Westminster,Criminal Damage,2564,-0.12802,51.50008
+2009,Westminster,Drugs,3894,-0.12802,51.50008
+2009,Westminster,Other Notifiable Offences,611,-0.12802,51.50008
+2009,Westminster,Robbery,1410,-0.12802,51.50008
+2009,Westminster,Theft and Handling,29967,-0.12802,51.50008
+2009,Westminster,Violence Against the Person,7053,-0.12802,51.50008
+2010,Barking and Dagenham,Burglary,2153,0.133158,51.5465
+2010,Barking and Dagenham,Criminal Damage,2390,0.133158,51.5465
+2010,Barking and Dagenham,Drugs,1096,0.133158,51.5465
+2010,Barking and Dagenham,Other Notifiable Offences,307,0.133158,51.5465
+2010,Barking and Dagenham,Robbery,834,0.133158,51.5465
+2010,Barking and Dagenham,Theft and Handling,5805,0.133158,51.5465
+2010,Barking and Dagenham,Violence Against the Person,4545,0.133158,51.5465
+2010,Barnet,Burglary,4300,-0.19622,51.6455
+2010,Barnet,Criminal Damage,2715,-0.19622,51.6455
+2010,Barnet,Drugs,1177,-0.19622,51.6455
+2010,Barnet,Other Notifiable Offences,268,-0.19622,51.6455
+2010,Barnet,Robbery,939,-0.19622,51.6455
+2010,Barnet,Theft and Handling,9582,-0.19622,51.6455
+2010,Barnet,Violence Against the Person,4435,-0.19622,51.6455
+2010,Bexley,Burglary,1924,0.110969,51.45964
+2010,Bexley,Criminal Damage,2201,0.110969,51.45964
+2010,Bexley,Drugs,933,0.110969,51.45964
+2010,Bexley,Other Notifiable Offences,168,0.110969,51.45964
+2010,Bexley,Robbery,246,0.110969,51.45964
+2010,Bexley,Theft and Handling,4514,0.110969,51.45964
+2010,Bexley,Violence Against the Person,3180,0.110969,51.45964
+2010,Brent,Burglary,3445,-0.271275,51.5436
+2010,Brent,Criminal Damage,2418,-0.271275,51.5436
+2010,Brent,Drugs,2980,-0.271275,51.5436
+2010,Brent,Other Notifiable Offences,415,-0.271275,51.5436
+2010,Brent,Robbery,1797,-0.271275,51.5436
+2010,Brent,Theft and Handling,7932,-0.271275,51.5436
+2010,Brent,Violence Against the Person,6525,-0.271275,51.5436
+2010,Bromley,Burglary,2953,0.01493,51.4057
+2010,Bromley,Criminal Damage,2713,0.01493,51.4057
+2010,Bromley,Drugs,1064,0.01493,51.4057
+2010,Bromley,Other Notifiable Offences,276,0.01493,51.4057
+2010,Bromley,Robbery,580,0.01493,51.4057
+2010,Bromley,Theft and Handling,7312,0.01493,51.4057
+2010,Bromley,Violence Against the Person,4674,0.01493,51.4057
+2010,Camden,Burglary,3217,-0.12796,51.53236
+2010,Camden,Criminal Damage,2262,-0.12796,51.53236
+2010,Camden,Drugs,2474,-0.12796,51.53236
+2010,Camden,Other Notifiable Offences,378,-0.12796,51.53236
+2010,Camden,Robbery,1158,-0.12796,51.53236
+2010,Camden,Theft and Handling,16425,-0.12796,51.53236
+2010,Camden,Violence Against the Person,5890,-0.12796,51.53236
+2010,Croydon,Burglary,4219,-0.073803,51.36496
+2010,Croydon,Criminal Damage,4002,-0.073803,51.36496
+2010,Croydon,Drugs,2277,-0.073803,51.36496
+2010,Croydon,Other Notifiable Offences,425,-0.073803,51.36496
+2010,Croydon,Robbery,1524,-0.073803,51.36496
+2010,Croydon,Theft and Handling,10494,-0.073803,51.36496
+2010,Croydon,Violence Against the Person,6432,-0.073803,51.36496
+2010,Ealing,Burglary,3738,-0.29991,51.51407
+2010,Ealing,Criminal Damage,3472,-0.29991,51.51407
+2010,Ealing,Drugs,2510,-0.29991,51.51407
+2010,Ealing,Other Notifiable Offences,521,-0.29991,51.51407
+2010,Ealing,Robbery,1568,-0.29991,51.51407
+2010,Ealing,Theft and Handling,11454,-0.29991,51.51407
+2010,Ealing,Violence Against the Person,8097,-0.29991,51.51407
+2010,Enfield,Burglary,3324,-0.076348,51.667797
+2010,Enfield,Criminal Damage,2861,-0.076348,51.667797
+2010,Enfield,Drugs,1649,-0.076348,51.667797
+2010,Enfield,Other Notifiable Offences,392,-0.076348,51.667797
+2010,Enfield,Robbery,1232,-0.076348,51.667797
+2010,Enfield,Theft and Handling,7165,-0.076348,51.667797
+2010,Enfield,Violence Against the Person,4185,-0.076348,51.667797
+2010,Greenwich,Burglary,2494,0.00257,51.48451
+2010,Greenwich,Criminal Damage,2760,0.00257,51.48451
+2010,Greenwich,Drugs,987,0.00257,51.48451
+2010,Greenwich,Other Notifiable Offences,337,0.00257,51.48451
+2010,Greenwich,Robbery,711,0.00257,51.48451
+2010,Greenwich,Theft and Handling,6689,0.00257,51.48451
+2010,Greenwich,Violence Against the Person,4648,0.00257,51.48451
+2010,Hackney,Burglary,1974,-0.05833,51.55
+2010,Hackney,Criminal Damage,1911,-0.05833,51.55
+2010,Hackney,Drugs,2083,-0.05833,51.55
+2010,Hackney,Other Notifiable Offences,292,-0.05833,51.55
+2010,Hackney,Robbery,988,-0.05833,51.55
+2010,Hackney,Theft and Handling,7736,-0.05833,51.55
+2010,Hackney,Violence Against the Person,5191,-0.05833,51.55
+2010,Hammersmith and Fulham,Burglary,2226,-0.220817,51.495045
+2010,Hammersmith and Fulham,Criminal Damage,1976,-0.220817,51.495045
+2010,Hammersmith and Fulham,Drugs,1842,-0.220817,51.495045
+2010,Hammersmith and Fulham,Other Notifiable Offences,361,-0.220817,51.495045
+2010,Hammersmith and Fulham,Robbery,812,-0.220817,51.495045
+2010,Hammersmith and Fulham,Theft and Handling,10017,-0.220817,51.495045
+2010,Hammersmith and Fulham,Violence Against the Person,4707,-0.220817,51.495045
+2010,Haringey,Burglary,3218,-0.071193,51.58784
+2010,Haringey,Criminal Damage,2644,-0.071193,51.58784
+2010,Haringey,Drugs,1623,-0.071193,51.58784
+2010,Haringey,Other Notifiable Offences,238,-0.071193,51.58784
+2010,Haringey,Robbery,1027,-0.071193,51.58784
+2010,Haringey,Theft and Handling,8674,-0.071193,51.58784
+2010,Haringey,Violence Against the Person,4732,-0.071193,51.58784
+2010,Harrow,Burglary,2311,-0.46443,51.4801
+2010,Harrow,Criminal Damage,1661,-0.46443,51.4801
+2010,Harrow,Drugs,907,-0.46443,51.4801
+2010,Harrow,Other Notifiable Offences,217,-0.46443,51.4801
+2010,Harrow,Robbery,452,-0.46443,51.4801
+2010,Harrow,Theft and Handling,5096,-0.46443,51.4801
+2010,Harrow,Violence Against the Person,3301,-0.46443,51.4801
+2010,Havering,Burglary,2271,0.255151,51.570454
+2010,Havering,Criminal Damage,2112,0.255151,51.570454
+2010,Havering,Drugs,989,0.255151,51.570454
+2010,Havering,Other Notifiable Offences,213,0.255151,51.570454
+2010,Havering,Robbery,377,0.255151,51.570454
+2010,Havering,Theft and Handling,5496,0.255151,51.570454
+2010,Havering,Violence Against the Person,3499,0.255151,51.570454
+2010,Hillingdon,Burglary,2986,-0.44998,51.54304
+2010,Hillingdon,Criminal Damage,3084,-0.44998,51.54304
+2010,Hillingdon,Drugs,1372,-0.44998,51.54304
+2010,Hillingdon,Other Notifiable Offences,608,-0.44998,51.54304
+2010,Hillingdon,Robbery,774,-0.44998,51.54304
+2010,Hillingdon,Theft and Handling,8678,-0.44998,51.54304
+2010,Hillingdon,Violence Against the Person,5919,-0.44998,51.54304
+2010,Hounslow,Burglary,2399,-0.361667,51.4675
+2010,Hounslow,Criminal Damage,2586,-0.361667,51.4675
+2010,Hounslow,Drugs,1703,-0.361667,51.4675
+2010,Hounslow,Other Notifiable Offences,363,-0.361667,51.4675
+2010,Hounslow,Robbery,562,-0.361667,51.4675
+2010,Hounslow,Theft and Handling,6811,-0.361667,51.4675
+2010,Hounslow,Violence Against the Person,5241,-0.361667,51.4675
+2010,Islington,Burglary,2415,-0.10614,51.53279
+2010,Islington,Criminal Damage,2126,-0.10614,51.53279
+2010,Islington,Drugs,1816,-0.10614,51.53279
+2010,Islington,Other Notifiable Offences,370,-0.10614,51.53279
+2010,Islington,Robbery,895,-0.10614,51.53279
+2010,Islington,Theft and Handling,11578,-0.10614,51.53279
+2010,Islington,Violence Against the Person,5493,-0.10614,51.53279
+2010,Kensington and Chelsea,Burglary,1621,-0.192221,51.501205
+2010,Kensington and Chelsea,Criminal Damage,1160,-0.192221,51.501205
+2010,Kensington and Chelsea,Drugs,2153,-0.192221,51.501205
+2010,Kensington and Chelsea,Other Notifiable Offences,242,-0.192221,51.501205
+2010,Kensington and Chelsea,Robbery,503,-0.192221,51.501205
+2010,Kensington and Chelsea,Theft and Handling,10911,-0.192221,51.501205
+2010,Kensington and Chelsea,Violence Against the Person,2891,-0.192221,51.501205
+2010,Kingston upon Thames,Burglary,1166,-0.29142,51.41104
+2010,Kingston upon Thames,Criminal Damage,1286,-0.29142,51.41104
+2010,Kingston upon Thames,Drugs,505,-0.29142,51.41104
+2010,Kingston upon Thames,Other Notifiable Offences,147,-0.29142,51.41104
+2010,Kingston upon Thames,Robbery,228,-0.29142,51.41104
+2010,Kingston upon Thames,Theft and Handling,4696,-0.29142,51.41104
+2010,Kingston upon Thames,Violence Against the Person,2143,-0.29142,51.41104
+2010,Lambeth,Burglary,3204,-0.11108,51.49085
+2010,Lambeth,Criminal Damage,3178,-0.11108,51.49085
+2010,Lambeth,Drugs,2950,-0.11108,51.49085
+2010,Lambeth,Other Notifiable Offences,448,-0.11108,51.49085
+2010,Lambeth,Robbery,2490,-0.11108,51.49085
+2010,Lambeth,Theft and Handling,11989,-0.11108,51.49085
+2010,Lambeth,Violence Against the Person,7412,-0.11108,51.49085
+2010,Lewisham,Burglary,3023,-0.01213,51.45916
+2010,Lewisham,Criminal Damage,3130,-0.01213,51.45916
+2010,Lewisham,Drugs,2263,-0.01213,51.45916
+2010,Lewisham,Other Notifiable Offences,512,-0.01213,51.45916
+2010,Lewisham,Robbery,1377,-0.01213,51.45916
+2010,Lewisham,Theft and Handling,7899,-0.01213,51.45916
+2010,Lewisham,Violence Against the Person,6328,-0.01213,51.45916
+2010,Merton,Burglary,2069,-0.166667,51.3833
+2010,Merton,Criminal Damage,1808,-0.166667,51.3833
+2010,Merton,Drugs,921,-0.166667,51.3833
+2010,Merton,Other Notifiable Offences,128,-0.166667,51.3833
+2010,Merton,Robbery,542,-0.166667,51.3833
+2010,Merton,Theft and Handling,5228,-0.166667,51.3833
+2010,Merton,Violence Against the Person,2899,-0.166667,51.3833
+2010,Newham,Burglary,3330,0.013242,51.524384
+2010,Newham,Criminal Damage,3025,0.013242,51.524384
+2010,Newham,Drugs,2772,0.013242,51.524384
+2010,Newham,Other Notifiable Offences,438,0.013242,51.524384
+2010,Newham,Robbery,2195,0.013242,51.524384
+2010,Newham,Theft and Handling,12184,0.013242,51.524384
+2010,Newham,Violence Against the Person,6784,0.013242,51.524384
+2010,Redbridge,Burglary,3239,0.083333,51.5667
+2010,Redbridge,Criminal Damage,2229,0.083333,51.5667
+2010,Redbridge,Drugs,1806,0.083333,51.5667
+2010,Redbridge,Other Notifiable Offences,193,0.083333,51.5667
+2010,Redbridge,Robbery,878,0.083333,51.5667
+2010,Redbridge,Theft and Handling,8482,0.083333,51.5667
+2010,Redbridge,Violence Against the Person,3825,0.083333,51.5667
+2010,Richmond upon Thames,Burglary,1926,-0.312531,51.442757
+2010,Richmond upon Thames,Criminal Damage,1465,-0.312531,51.442757
+2010,Richmond upon Thames,Drugs,530,-0.312531,51.442757
+2010,Richmond upon Thames,Other Notifiable Offences,134,-0.312531,51.442757
+2010,Richmond upon Thames,Robbery,163,-0.312531,51.442757
+2010,Richmond upon Thames,Theft and Handling,4203,-0.312531,51.442757
+2010,Richmond upon Thames,Violence Against the Person,2180,-0.312531,51.442757
+2010,Southwark,Burglary,3005,-0.08921,51.50541
+2010,Southwark,Criminal Damage,2821,-0.08921,51.50541
+2010,Southwark,Drugs,4231,-0.08921,51.50541
+2010,Southwark,Other Notifiable Offences,643,-0.08921,51.50541
+2010,Southwark,Robbery,2001,-0.08921,51.50541
+2010,Southwark,Theft and Handling,11180,-0.08921,51.50541
+2010,Southwark,Violence Against the Person,7439,-0.08921,51.50541
+2010,Sutton,Burglary,1581,-0.166667,51.3333
+2010,Sutton,Criminal Damage,1898,-0.166667,51.3333
+2010,Sutton,Drugs,578,-0.166667,51.3333
+2010,Sutton,Other Notifiable Offences,119,-0.166667,51.3333
+2010,Sutton,Robbery,304,-0.166667,51.3333
+2010,Sutton,Theft and Handling,5236,-0.166667,51.3333
+2010,Sutton,Violence Against the Person,2316,-0.166667,51.3333
+2010,Tower Hamlets,Burglary,2088,-0.05457,51.52017
+2010,Tower Hamlets,Criminal Damage,2474,-0.05457,51.52017
+2010,Tower Hamlets,Drugs,2828,-0.05457,51.52017
+2010,Tower Hamlets,Other Notifiable Offences,347,-0.05457,51.52017
+2010,Tower Hamlets,Robbery,894,-0.05457,51.52017
+2010,Tower Hamlets,Theft and Handling,8817,-0.05457,51.52017
+2010,Tower Hamlets,Violence Against the Person,5624,-0.05457,51.52017
+2010,Waltham Forest,Burglary,3426,-0.015955,51.601154
+2010,Waltham Forest,Criminal Damage,2564,-0.015955,51.601154
+2010,Waltham Forest,Drugs,1762,-0.015955,51.601154
+2010,Waltham Forest,Other Notifiable Offences,303,-0.015955,51.601154
+2010,Waltham Forest,Robbery,1665,-0.015955,51.601154
+2010,Waltham Forest,Theft and Handling,9726,-0.015955,51.601154
+2010,Waltham Forest,Violence Against the Person,5372,-0.015955,51.601154
+2010,Wandsworth,Burglary,2899,-0.194861,51.4573
+2010,Wandsworth,Criminal Damage,2580,-0.194861,51.4573
+2010,Wandsworth,Drugs,1261,-0.194861,51.4573
+2010,Wandsworth,Other Notifiable Offences,305,-0.194861,51.4573
+2010,Wandsworth,Robbery,1186,-0.194861,51.4573
+2010,Wandsworth,Theft and Handling,9724,-0.194861,51.4573
+2010,Wandsworth,Violence Against the Person,4860,-0.194861,51.4573
+2010,Westminster,Burglary,2682,-0.12802,51.50008
+2010,Westminster,Criminal Damage,2385,-0.12802,51.50008
+2010,Westminster,Drugs,4632,-0.12802,51.50008
+2010,Westminster,Other Notifiable Offences,660,-0.12802,51.50008
+2010,Westminster,Robbery,1439,-0.12802,51.50008
+2010,Westminster,Theft and Handling,29191,-0.12802,51.50008
+2010,Westminster,Violence Against the Person,7127,-0.12802,51.50008
+2011,Barking and Dagenham,Burglary,2301,0.133158,51.5465
+2011,Barking and Dagenham,Criminal Damage,2104,0.133158,51.5465
+2011,Barking and Dagenham,Drugs,934,0.133158,51.5465
+2011,Barking and Dagenham,Other Notifiable Offences,345,0.133158,51.5465
+2011,Barking and Dagenham,Robbery,998,0.133158,51.5465
+2011,Barking and Dagenham,Theft and Handling,6070,0.133158,51.5465
+2011,Barking and Dagenham,Violence Against the Person,3934,0.133158,51.5465
+2011,Barnet,Burglary,4873,-0.19622,51.6455
+2011,Barnet,Criminal Damage,2393,-0.19622,51.6455
+2011,Barnet,Drugs,1218,-0.19622,51.6455
+2011,Barnet,Other Notifiable Offences,285,-0.19622,51.6455
+2011,Barnet,Robbery,1159,-0.19622,51.6455
+2011,Barnet,Theft and Handling,9952,-0.19622,51.6455
+2011,Barnet,Violence Against the Person,4127,-0.19622,51.6455
+2011,Bexley,Burglary,1487,0.110969,51.45964
+2011,Bexley,Criminal Damage,1708,0.110969,51.45964
+2011,Bexley,Drugs,921,0.110969,51.45964
+2011,Bexley,Other Notifiable Offences,156,0.110969,51.45964
+2011,Bexley,Robbery,348,0.110969,51.45964
+2011,Bexley,Theft and Handling,3979,0.110969,51.45964
+2011,Bexley,Violence Against the Person,2726,0.110969,51.45964
+2011,Brent,Burglary,3675,-0.271275,51.5436
+2011,Brent,Criminal Damage,2301,-0.271275,51.5436
+2011,Brent,Drugs,4042,-0.271275,51.5436
+2011,Brent,Other Notifiable Offences,422,-0.271275,51.5436
+2011,Brent,Robbery,2027,-0.271275,51.5436
+2011,Brent,Theft and Handling,8398,-0.271275,51.5436
+2011,Brent,Violence Against the Person,6804,-0.271275,51.5436
+2011,Bromley,Burglary,3119,0.01493,51.4057
+2011,Bromley,Criminal Damage,2619,0.01493,51.4057
+2011,Bromley,Drugs,1041,0.01493,51.4057
+2011,Bromley,Other Notifiable Offences,205,0.01493,51.4057
+2011,Bromley,Robbery,684,0.01493,51.4057
+2011,Bromley,Theft and Handling,7680,0.01493,51.4057
+2011,Bromley,Violence Against the Person,4520,0.01493,51.4057
+2011,Camden,Burglary,3409,-0.12796,51.53236
+2011,Camden,Criminal Damage,2080,-0.12796,51.53236
+2011,Camden,Drugs,2554,-0.12796,51.53236
+2011,Camden,Other Notifiable Offences,345,-0.12796,51.53236
+2011,Camden,Robbery,1439,-0.12796,51.53236
+2011,Camden,Theft and Handling,18573,-0.12796,51.53236
+2011,Camden,Violence Against the Person,5556,-0.12796,51.53236
+2011,City of London,Theft and Handling,45,-0.09743,51.5205
+2011,Croydon,Burglary,4619,-0.073803,51.36496
+2011,Croydon,Criminal Damage,3426,-0.073803,51.36496
+2011,Croydon,Drugs,2315,-0.073803,51.36496
+2011,Croydon,Other Notifiable Offences,427,-0.073803,51.36496
+2011,Croydon,Robbery,1762,-0.073803,51.36496
+2011,Croydon,Theft and Handling,10727,-0.073803,51.36496
+2011,Croydon,Violence Against the Person,6554,-0.073803,51.36496
+2011,Ealing,Burglary,3824,-0.29991,51.51407
+2011,Ealing,Criminal Damage,3120,-0.29991,51.51407
+2011,Ealing,Drugs,2205,-0.29991,51.51407
+2011,Ealing,Other Notifiable Offences,550,-0.29991,51.51407
+2011,Ealing,Robbery,1429,-0.29991,51.51407
+2011,Ealing,Theft and Handling,11309,-0.29991,51.51407
+2011,Ealing,Violence Against the Person,7100,-0.29991,51.51407
+2011,Enfield,Burglary,3627,-0.076348,51.667797
+2011,Enfield,Criminal Damage,2564,-0.076348,51.667797
+2011,Enfield,Drugs,1451,-0.076348,51.667797
+2011,Enfield,Other Notifiable Offences,375,-0.076348,51.667797
+2011,Enfield,Robbery,1103,-0.076348,51.667797
+2011,Enfield,Theft and Handling,7847,-0.076348,51.667797
+2011,Enfield,Violence Against the Person,4074,-0.076348,51.667797
+2011,Greenwich,Burglary,2300,0.00257,51.48451
+2011,Greenwich,Criminal Damage,2490,0.00257,51.48451
+2011,Greenwich,Drugs,1285,0.00257,51.48451
+2011,Greenwich,Other Notifiable Offences,303,0.00257,51.48451
+2011,Greenwich,Robbery,741,0.00257,51.48451
+2011,Greenwich,Theft and Handling,6878,0.00257,51.48451
+2011,Greenwich,Violence Against the Person,4555,0.00257,51.48451
+2011,Hackney,Burglary,1968,-0.05833,51.55
+2011,Hackney,Criminal Damage,1836,-0.05833,51.55
+2011,Hackney,Drugs,2095,-0.05833,51.55
+2011,Hackney,Other Notifiable Offences,272,-0.05833,51.55
+2011,Hackney,Robbery,993,-0.05833,51.55
+2011,Hackney,Theft and Handling,9534,-0.05833,51.55
+2011,Hackney,Violence Against the Person,4697,-0.05833,51.55
+2011,Hammersmith and Fulham,Burglary,2499,-0.220817,51.495045
+2011,Hammersmith and Fulham,Criminal Damage,1723,-0.220817,51.495045
+2011,Hammersmith and Fulham,Drugs,1501,-0.220817,51.495045
+2011,Hammersmith and Fulham,Other Notifiable Offences,395,-0.220817,51.495045
+2011,Hammersmith and Fulham,Robbery,769,-0.220817,51.495045
+2011,Hammersmith and Fulham,Theft and Handling,11008,-0.220817,51.495045
+2011,Hammersmith and Fulham,Violence Against the Person,4256,-0.220817,51.495045
+2011,Haringey,Burglary,3564,-0.071193,51.58784
+2011,Haringey,Criminal Damage,2660,-0.071193,51.58784
+2011,Haringey,Drugs,1556,-0.071193,51.58784
+2011,Haringey,Other Notifiable Offences,233,-0.071193,51.58784
+2011,Haringey,Robbery,1383,-0.071193,51.58784
+2011,Haringey,Theft and Handling,9191,-0.071193,51.58784
+2011,Haringey,Violence Against the Person,4592,-0.071193,51.58784
+2011,Harrow,Burglary,2586,-0.46443,51.4801
+2011,Harrow,Criminal Damage,1448,-0.46443,51.4801
+2011,Harrow,Drugs,679,-0.46443,51.4801
+2011,Harrow,Other Notifiable Offences,220,-0.46443,51.4801
+2011,Harrow,Robbery,641,-0.46443,51.4801
+2011,Harrow,Theft and Handling,4442,-0.46443,51.4801
+2011,Harrow,Violence Against the Person,2785,-0.46443,51.4801
+2011,Havering,Burglary,2794,0.255151,51.570454
+2011,Havering,Criminal Damage,1791,0.255151,51.570454
+2011,Havering,Drugs,1011,0.255151,51.570454
+2011,Havering,Other Notifiable Offences,229,0.255151,51.570454
+2011,Havering,Robbery,467,0.255151,51.570454
+2011,Havering,Theft and Handling,6054,0.255151,51.570454
+2011,Havering,Violence Against the Person,3150,0.255151,51.570454
+2011,Hillingdon,Burglary,3615,-0.44998,51.54304
+2011,Hillingdon,Criminal Damage,2808,-0.44998,51.54304
+2011,Hillingdon,Drugs,1531,-0.44998,51.54304
+2011,Hillingdon,Other Notifiable Offences,570,-0.44998,51.54304
+2011,Hillingdon,Robbery,862,-0.44998,51.54304
+2011,Hillingdon,Theft and Handling,9554,-0.44998,51.54304
+2011,Hillingdon,Violence Against the Person,5342,-0.44998,51.54304
+2011,Hounslow,Burglary,2665,-0.361667,51.4675
+2011,Hounslow,Criminal Damage,2503,-0.361667,51.4675
+2011,Hounslow,Drugs,1629,-0.361667,51.4675
+2011,Hounslow,Other Notifiable Offences,463,-0.361667,51.4675
+2011,Hounslow,Robbery,632,-0.361667,51.4675
+2011,Hounslow,Theft and Handling,8127,-0.361667,51.4675
+2011,Hounslow,Violence Against the Person,5086,-0.361667,51.4675
+2011,Islington,Burglary,2669,-0.10614,51.53279
+2011,Islington,Criminal Damage,1967,-0.10614,51.53279
+2011,Islington,Drugs,1664,-0.10614,51.53279
+2011,Islington,Other Notifiable Offences,336,-0.10614,51.53279
+2011,Islington,Robbery,1117,-0.10614,51.53279
+2011,Islington,Theft and Handling,12287,-0.10614,51.53279
+2011,Islington,Violence Against the Person,4940,-0.10614,51.53279
+2011,Kensington and Chelsea,Burglary,1730,-0.192221,51.501205
+2011,Kensington and Chelsea,Criminal Damage,1148,-0.192221,51.501205
+2011,Kensington and Chelsea,Drugs,1627,-0.192221,51.501205
+2011,Kensington and Chelsea,Other Notifiable Offences,171,-0.192221,51.501205
+2011,Kensington and Chelsea,Robbery,609,-0.192221,51.501205
+2011,Kensington and Chelsea,Theft and Handling,11124,-0.192221,51.501205
+2011,Kensington and Chelsea,Violence Against the Person,2737,-0.192221,51.501205
+2011,Kingston upon Thames,Burglary,1320,-0.29142,51.41104
+2011,Kingston upon Thames,Criminal Damage,1134,-0.29142,51.41104
+2011,Kingston upon Thames,Drugs,658,-0.29142,51.41104
+2011,Kingston upon Thames,Other Notifiable Offences,130,-0.29142,51.41104
+2011,Kingston upon Thames,Robbery,236,-0.29142,51.41104
+2011,Kingston upon Thames,Theft and Handling,4531,-0.29142,51.41104
+2011,Kingston upon Thames,Violence Against the Person,2146,-0.29142,51.41104
+2011,Lambeth,Burglary,3743,-0.11108,51.49085
+2011,Lambeth,Criminal Damage,2971,-0.11108,51.49085
+2011,Lambeth,Drugs,2920,-0.11108,51.49085
+2011,Lambeth,Other Notifiable Offences,367,-0.11108,51.49085
+2011,Lambeth,Robbery,2935,-0.11108,51.49085
+2011,Lambeth,Theft and Handling,13374,-0.11108,51.49085
+2011,Lambeth,Violence Against the Person,6914,-0.11108,51.49085
+2011,Lewisham,Burglary,3116,-0.01213,51.45916
+2011,Lewisham,Criminal Damage,2801,-0.01213,51.45916
+2011,Lewisham,Drugs,2061,-0.01213,51.45916
+2011,Lewisham,Other Notifiable Offences,415,-0.01213,51.45916
+2011,Lewisham,Robbery,1593,-0.01213,51.45916
+2011,Lewisham,Theft and Handling,8123,-0.01213,51.45916
+2011,Lewisham,Violence Against the Person,6092,-0.01213,51.45916
+2011,Merton,Burglary,2396,-0.166667,51.3833
+2011,Merton,Criminal Damage,1681,-0.166667,51.3833
+2011,Merton,Drugs,1000,-0.166667,51.3833
+2011,Merton,Other Notifiable Offences,104,-0.166667,51.3833
+2011,Merton,Robbery,631,-0.166667,51.3833
+2011,Merton,Theft and Handling,5201,-0.166667,51.3833
+2011,Merton,Violence Against the Person,2535,-0.166667,51.3833
+2011,Newham,Burglary,3040,0.013242,51.524384
+2011,Newham,Criminal Damage,2477,0.013242,51.524384
+2011,Newham,Drugs,2160,0.013242,51.524384
+2011,Newham,Other Notifiable Offences,426,0.013242,51.524384
+2011,Newham,Robbery,2264,0.013242,51.524384
+2011,Newham,Theft and Handling,11464,0.013242,51.524384
+2011,Newham,Violence Against the Person,6147,0.013242,51.524384
+2011,Redbridge,Burglary,3712,0.083333,51.5667
+2011,Redbridge,Criminal Damage,2274,0.083333,51.5667
+2011,Redbridge,Drugs,2253,0.083333,51.5667
+2011,Redbridge,Other Notifiable Offences,255,0.083333,51.5667
+2011,Redbridge,Robbery,1098,0.083333,51.5667
+2011,Redbridge,Theft and Handling,8803,0.083333,51.5667
+2011,Redbridge,Violence Against the Person,3599,0.083333,51.5667
+2011,Richmond upon Thames,Burglary,2060,-0.312531,51.442757
+2011,Richmond upon Thames,Criminal Damage,1377,-0.312531,51.442757
+2011,Richmond upon Thames,Drugs,529,-0.312531,51.442757
+2011,Richmond upon Thames,Other Notifiable Offences,124,-0.312531,51.442757
+2011,Richmond upon Thames,Robbery,197,-0.312531,51.442757
+2011,Richmond upon Thames,Theft and Handling,4723,-0.312531,51.442757
+2011,Richmond upon Thames,Violence Against the Person,1886,-0.312531,51.442757
+2011,Southwark,Burglary,3259,-0.08921,51.50541
+2011,Southwark,Criminal Damage,2948,-0.08921,51.50541
+2011,Southwark,Drugs,3128,-0.08921,51.50541
+2011,Southwark,Other Notifiable Offences,458,-0.08921,51.50541
+2011,Southwark,Robbery,2212,-0.08921,51.50541
+2011,Southwark,Theft and Handling,12513,-0.08921,51.50541
+2011,Southwark,Violence Against the Person,6205,-0.08921,51.50541
+2011,Sutton,Burglary,1609,-0.166667,51.3333
+2011,Sutton,Criminal Damage,1557,-0.166667,51.3333
+2011,Sutton,Drugs,553,-0.166667,51.3333
+2011,Sutton,Other Notifiable Offences,101,-0.166667,51.3333
+2011,Sutton,Robbery,293,-0.166667,51.3333
+2011,Sutton,Theft and Handling,4630,-0.166667,51.3333
+2011,Sutton,Violence Against the Person,2325,-0.166667,51.3333
+2011,Tower Hamlets,Burglary,2495,-0.05457,51.52017
+2011,Tower Hamlets,Criminal Damage,2274,-0.05457,51.52017
+2011,Tower Hamlets,Drugs,3109,-0.05457,51.52017
+2011,Tower Hamlets,Other Notifiable Offences,403,-0.05457,51.52017
+2011,Tower Hamlets,Robbery,1315,-0.05457,51.52017
+2011,Tower Hamlets,Theft and Handling,9934,-0.05457,51.52017
+2011,Tower Hamlets,Violence Against the Person,5182,-0.05457,51.52017
+2011,Waltham Forest,Burglary,3347,-0.015955,51.601154
+2011,Waltham Forest,Criminal Damage,2346,-0.015955,51.601154
+2011,Waltham Forest,Drugs,1240,-0.015955,51.601154
+2011,Waltham Forest,Other Notifiable Offences,266,-0.015955,51.601154
+2011,Waltham Forest,Robbery,1714,-0.015955,51.601154
+2011,Waltham Forest,Theft and Handling,9863,-0.015955,51.601154
+2011,Waltham Forest,Violence Against the Person,4938,-0.015955,51.601154
+2011,Wandsworth,Burglary,2993,-0.194861,51.4573
+2011,Wandsworth,Criminal Damage,2137,-0.194861,51.4573
+2011,Wandsworth,Drugs,1006,-0.194861,51.4573
+2011,Wandsworth,Other Notifiable Offences,260,-0.194861,51.4573
+2011,Wandsworth,Robbery,1212,-0.194861,51.4573
+2011,Wandsworth,Theft and Handling,9825,-0.194861,51.4573
+2011,Wandsworth,Violence Against the Person,3951,-0.194861,51.4573
+2011,Westminster,Burglary,2900,-0.12802,51.50008
+2011,Westminster,Criminal Damage,2246,-0.12802,51.50008
+2011,Westminster,Drugs,5670,-0.12802,51.50008
+2011,Westminster,Other Notifiable Offences,652,-0.12802,51.50008
+2011,Westminster,Robbery,1814,-0.12802,51.50008
+2011,Westminster,Theft and Handling,33529,-0.12802,51.50008
+2011,Westminster,Violence Against the Person,7432,-0.12802,51.50008
+2012,Barking and Dagenham,Burglary,2435,0.133158,51.5465
+2012,Barking and Dagenham,Criminal Damage,1696,0.133158,51.5465
+2012,Barking and Dagenham,Drugs,949,0.133158,51.5465
+2012,Barking and Dagenham,Other Notifiable Offences,257,0.133158,51.5465
+2012,Barking and Dagenham,Robbery,746,0.133158,51.5465
+2012,Barking and Dagenham,Theft and Handling,6173,0.133158,51.5465
+2012,Barking and Dagenham,Violence Against the Person,3734,0.133158,51.5465
+2012,Barnet,Burglary,4830,-0.19622,51.6455
+2012,Barnet,Criminal Damage,1985,-0.19622,51.6455
+2012,Barnet,Drugs,942,-0.19622,51.6455
+2012,Barnet,Other Notifiable Offences,281,-0.19622,51.6455
+2012,Barnet,Robbery,1142,-0.19622,51.6455
+2012,Barnet,Theft and Handling,10451,-0.19622,51.6455
+2012,Barnet,Violence Against the Person,3942,-0.19622,51.6455
+2012,Bexley,Burglary,1693,0.110969,51.45964
+2012,Bexley,Criminal Damage,1596,0.110969,51.45964
+2012,Bexley,Drugs,792,0.110969,51.45964
+2012,Bexley,Other Notifiable Offences,199,0.110969,51.45964
+2012,Bexley,Robbery,231,0.110969,51.45964
+2012,Bexley,Theft and Handling,4414,0.110969,51.45964
+2012,Bexley,Violence Against the Person,2744,0.110969,51.45964
+2012,Brent,Burglary,3936,-0.271275,51.5436
+2012,Brent,Criminal Damage,2161,-0.271275,51.5436
+2012,Brent,Drugs,3428,-0.271275,51.5436
+2012,Brent,Other Notifiable Offences,456,-0.271275,51.5436
+2012,Brent,Robbery,1643,-0.271275,51.5436
+2012,Brent,Theft and Handling,8338,-0.271275,51.5436
+2012,Brent,Violence Against the Person,6395,-0.271275,51.5436
+2012,Bromley,Burglary,3445,0.01493,51.4057
+2012,Bromley,Criminal Damage,2250,0.01493,51.4057
+2012,Bromley,Drugs,1013,0.01493,51.4057
+2012,Bromley,Other Notifiable Offences,241,0.01493,51.4057
+2012,Bromley,Robbery,601,0.01493,51.4057
+2012,Bromley,Theft and Handling,7929,0.01493,51.4057
+2012,Bromley,Violence Against the Person,4143,0.01493,51.4057
+2012,Camden,Burglary,2935,-0.12796,51.53236
+2012,Camden,Criminal Damage,1865,-0.12796,51.53236
+2012,Camden,Drugs,2296,-0.12796,51.53236
+2012,Camden,Other Notifiable Offences,449,-0.12796,51.53236
+2012,Camden,Robbery,1093,-0.12796,51.53236
+2012,Camden,Theft and Handling,17717,-0.12796,51.53236
+2012,Camden,Violence Against the Person,5117,-0.12796,51.53236
+2012,City of London,Theft and Handling,121,-0.09743,51.5205
+2012,Croydon,Burglary,4038,-0.073803,51.36496
+2012,Croydon,Criminal Damage,3072,-0.073803,51.36496
+2012,Croydon,Drugs,2356,-0.073803,51.36496
+2012,Croydon,Other Notifiable Offences,489,-0.073803,51.36496
+2012,Croydon,Robbery,1925,-0.073803,51.36496
+2012,Croydon,Theft and Handling,11754,-0.073803,51.36496
+2012,Croydon,Violence Against the Person,6555,-0.073803,51.36496
+2012,Ealing,Burglary,3940,-0.29991,51.51407
+2012,Ealing,Criminal Damage,2606,-0.29991,51.51407
+2012,Ealing,Drugs,2170,-0.29991,51.51407
+2012,Ealing,Other Notifiable Offences,478,-0.29991,51.51407
+2012,Ealing,Robbery,1233,-0.29991,51.51407
+2012,Ealing,Theft and Handling,11555,-0.29991,51.51407
+2012,Ealing,Violence Against the Person,6850,-0.29991,51.51407
+2012,Enfield,Burglary,3719,-0.076348,51.667797
+2012,Enfield,Criminal Damage,2138,-0.076348,51.667797
+2012,Enfield,Drugs,1135,-0.076348,51.667797
+2012,Enfield,Other Notifiable Offences,300,-0.076348,51.667797
+2012,Enfield,Robbery,1121,-0.076348,51.667797
+2012,Enfield,Theft and Handling,8425,-0.076348,51.667797
+2012,Enfield,Violence Against the Person,4231,-0.076348,51.667797
+2012,Greenwich,Burglary,2305,0.00257,51.48451
+2012,Greenwich,Criminal Damage,2216,0.00257,51.48451
+2012,Greenwich,Drugs,1313,0.00257,51.48451
+2012,Greenwich,Other Notifiable Offences,369,0.00257,51.48451
+2012,Greenwich,Robbery,580,0.00257,51.48451
+2012,Greenwich,Theft and Handling,7935,0.00257,51.48451
+2012,Greenwich,Violence Against the Person,5310,0.00257,51.48451
+2012,Hackney,Burglary,2389,-0.05833,51.55
+2012,Hackney,Criminal Damage,1844,-0.05833,51.55
+2012,Hackney,Drugs,2184,-0.05833,51.55
+2012,Hackney,Other Notifiable Offences,338,-0.05833,51.55
+2012,Hackney,Robbery,1249,-0.05833,51.55
+2012,Hackney,Theft and Handling,13375,-0.05833,51.55
+2012,Hackney,Violence Against the Person,5716,-0.05833,51.55
+2012,Hammersmith and Fulham,Burglary,1864,-0.220817,51.495045
+2012,Hammersmith and Fulham,Criminal Damage,1467,-0.220817,51.495045
+2012,Hammersmith and Fulham,Drugs,1644,-0.220817,51.495045
+2012,Hammersmith and Fulham,Other Notifiable Offences,339,-0.220817,51.495045
+2012,Hammersmith and Fulham,Robbery,697,-0.220817,51.495045
+2012,Hammersmith and Fulham,Theft and Handling,10777,-0.220817,51.495045
+2012,Hammersmith and Fulham,Violence Against the Person,4242,-0.220817,51.495045
+2012,Haringey,Burglary,3435,-0.071193,51.58784
+2012,Haringey,Criminal Damage,2176,-0.071193,51.58784
+2012,Haringey,Drugs,1534,-0.071193,51.58784
+2012,Haringey,Other Notifiable Offences,282,-0.071193,51.58784
+2012,Haringey,Robbery,1120,-0.071193,51.58784
+2012,Haringey,Theft and Handling,9957,-0.071193,51.58784
+2012,Haringey,Violence Against the Person,4727,-0.071193,51.58784
+2012,Harrow,Burglary,2515,-0.46443,51.4801
+2012,Harrow,Criminal Damage,1240,-0.46443,51.4801
+2012,Harrow,Drugs,703,-0.46443,51.4801
+2012,Harrow,Other Notifiable Offences,224,-0.46443,51.4801
+2012,Harrow,Robbery,655,-0.46443,51.4801
+2012,Harrow,Theft and Handling,4551,-0.46443,51.4801
+2012,Harrow,Violence Against the Person,2915,-0.46443,51.4801
+2012,Havering,Burglary,2814,0.255151,51.570454
+2012,Havering,Criminal Damage,1589,0.255151,51.570454
+2012,Havering,Drugs,1049,0.255151,51.570454
+2012,Havering,Other Notifiable Offences,243,0.255151,51.570454
+2012,Havering,Robbery,427,0.255151,51.570454
+2012,Havering,Theft and Handling,6540,0.255151,51.570454
+2012,Havering,Violence Against the Person,3303,0.255151,51.570454
+2012,Hillingdon,Burglary,3353,-0.44998,51.54304
+2012,Hillingdon,Criminal Damage,2268,-0.44998,51.54304
+2012,Hillingdon,Drugs,1092,-0.44998,51.54304
+2012,Hillingdon,Other Notifiable Offences,513,-0.44998,51.54304
+2012,Hillingdon,Robbery,845,-0.44998,51.54304
+2012,Hillingdon,Theft and Handling,8923,-0.44998,51.54304
+2012,Hillingdon,Violence Against the Person,5109,-0.44998,51.54304
+2012,Hounslow,Burglary,2932,-0.361667,51.4675
+2012,Hounslow,Criminal Damage,2252,-0.361667,51.4675
+2012,Hounslow,Drugs,1595,-0.361667,51.4675
+2012,Hounslow,Other Notifiable Offences,391,-0.361667,51.4675
+2012,Hounslow,Robbery,767,-0.361667,51.4675
+2012,Hounslow,Theft and Handling,9427,-0.361667,51.4675
+2012,Hounslow,Violence Against the Person,5360,-0.361667,51.4675
+2012,Islington,Burglary,2402,-0.10614,51.53279
+2012,Islington,Criminal Damage,1864,-0.10614,51.53279
+2012,Islington,Drugs,1703,-0.10614,51.53279
+2012,Islington,Other Notifiable Offences,385,-0.10614,51.53279
+2012,Islington,Robbery,1160,-0.10614,51.53279
+2012,Islington,Theft and Handling,13479,-0.10614,51.53279
+2012,Islington,Violence Against the Person,5275,-0.10614,51.53279
+2012,Kensington and Chelsea,Burglary,1784,-0.192221,51.501205
+2012,Kensington and Chelsea,Criminal Damage,1048,-0.192221,51.501205
+2012,Kensington and Chelsea,Drugs,1355,-0.192221,51.501205
+2012,Kensington and Chelsea,Other Notifiable Offences,211,-0.192221,51.501205
+2012,Kensington and Chelsea,Robbery,653,-0.192221,51.501205
+2012,Kensington and Chelsea,Theft and Handling,12042,-0.192221,51.501205
+2012,Kensington and Chelsea,Violence Against the Person,2664,-0.192221,51.501205
+2012,Kingston upon Thames,Burglary,1373,-0.29142,51.41104
+2012,Kingston upon Thames,Criminal Damage,1088,-0.29142,51.41104
+2012,Kingston upon Thames,Drugs,419,-0.29142,51.41104
+2012,Kingston upon Thames,Other Notifiable Offences,119,-0.29142,51.41104
+2012,Kingston upon Thames,Robbery,236,-0.29142,51.41104
+2012,Kingston upon Thames,Theft and Handling,4458,-0.29142,51.41104
+2012,Kingston upon Thames,Violence Against the Person,2263,-0.29142,51.41104
+2012,Lambeth,Burglary,3599,-0.11108,51.49085
+2012,Lambeth,Criminal Damage,2506,-0.11108,51.49085
+2012,Lambeth,Drugs,2290,-0.11108,51.49085
+2012,Lambeth,Other Notifiable Offences,407,-0.11108,51.49085
+2012,Lambeth,Robbery,2673,-0.11108,51.49085
+2012,Lambeth,Theft and Handling,15095,-0.11108,51.49085
+2012,Lambeth,Violence Against the Person,6903,-0.11108,51.49085
+2012,Lewisham,Burglary,3296,-0.01213,51.45916
+2012,Lewisham,Criminal Damage,2432,-0.01213,51.45916
+2012,Lewisham,Drugs,1431,-0.01213,51.45916
+2012,Lewisham,Other Notifiable Offences,338,-0.01213,51.45916
+2012,Lewisham,Robbery,1301,-0.01213,51.45916
+2012,Lewisham,Theft and Handling,8986,-0.01213,51.45916
+2012,Lewisham,Violence Against the Person,5868,-0.01213,51.45916
+2012,Merton,Burglary,2029,-0.166667,51.3833
+2012,Merton,Criminal Damage,1328,-0.166667,51.3833
+2012,Merton,Drugs,842,-0.166667,51.3833
+2012,Merton,Other Notifiable Offences,158,-0.166667,51.3833
+2012,Merton,Robbery,561,-0.166667,51.3833
+2012,Merton,Theft and Handling,5408,-0.166667,51.3833
+2012,Merton,Violence Against the Person,2530,-0.166667,51.3833
+2012,Newham,Burglary,3056,0.013242,51.524384
+2012,Newham,Criminal Damage,2357,0.013242,51.524384
+2012,Newham,Drugs,1857,0.013242,51.524384
+2012,Newham,Other Notifiable Offences,456,0.013242,51.524384
+2012,Newham,Robbery,2310,0.013242,51.524384
+2012,Newham,Theft and Handling,13416,0.013242,51.524384
+2012,Newham,Violence Against the Person,6615,0.013242,51.524384
+2012,Redbridge,Burglary,3398,0.083333,51.5667
+2012,Redbridge,Criminal Damage,1722,0.083333,51.5667
+2012,Redbridge,Drugs,1928,0.083333,51.5667
+2012,Redbridge,Other Notifiable Offences,290,0.083333,51.5667
+2012,Redbridge,Robbery,1036,0.083333,51.5667
+2012,Redbridge,Theft and Handling,8935,0.083333,51.5667
+2012,Redbridge,Violence Against the Person,4115,0.083333,51.5667
+2012,Richmond upon Thames,Burglary,2008,-0.312531,51.442757
+2012,Richmond upon Thames,Criminal Damage,1197,-0.312531,51.442757
+2012,Richmond upon Thames,Drugs,529,-0.312531,51.442757
+2012,Richmond upon Thames,Other Notifiable Offences,154,-0.312531,51.442757
+2012,Richmond upon Thames,Robbery,226,-0.312531,51.442757
+2012,Richmond upon Thames,Theft and Handling,4998,-0.312531,51.442757
+2012,Richmond upon Thames,Violence Against the Person,2056,-0.312531,51.442757
+2012,Southwark,Burglary,3278,-0.08921,51.50541
+2012,Southwark,Criminal Damage,2374,-0.08921,51.50541
+2012,Southwark,Drugs,2437,-0.08921,51.50541
+2012,Southwark,Other Notifiable Offences,471,-0.08921,51.50541
+2012,Southwark,Robbery,2506,-0.08921,51.50541
+2012,Southwark,Theft and Handling,13200,-0.08921,51.50541
+2012,Southwark,Violence Against the Person,6471,-0.08921,51.50541
+2012,Sutton,Burglary,1536,-0.166667,51.3333
+2012,Sutton,Criminal Damage,1354,-0.166667,51.3333
+2012,Sutton,Drugs,557,-0.166667,51.3333
+2012,Sutton,Other Notifiable Offences,163,-0.166667,51.3333
+2012,Sutton,Robbery,303,-0.166667,51.3333
+2012,Sutton,Theft and Handling,4378,-0.166667,51.3333
+2012,Sutton,Violence Against the Person,2657,-0.166667,51.3333
+2012,Tower Hamlets,Burglary,2631,-0.05457,51.52017
+2012,Tower Hamlets,Criminal Damage,2228,-0.05457,51.52017
+2012,Tower Hamlets,Drugs,3259,-0.05457,51.52017
+2012,Tower Hamlets,Other Notifiable Offences,404,-0.05457,51.52017
+2012,Tower Hamlets,Robbery,1356,-0.05457,51.52017
+2012,Tower Hamlets,Theft and Handling,10902,-0.05457,51.52017
+2012,Tower Hamlets,Violence Against the Person,6004,-0.05457,51.52017
+2012,Waltham Forest,Burglary,2943,-0.015955,51.601154
+2012,Waltham Forest,Criminal Damage,1964,-0.015955,51.601154
+2012,Waltham Forest,Drugs,1269,-0.015955,51.601154
+2012,Waltham Forest,Other Notifiable Offences,306,-0.015955,51.601154
+2012,Waltham Forest,Robbery,1348,-0.015955,51.601154
+2012,Waltham Forest,Theft and Handling,9873,-0.015955,51.601154
+2012,Waltham Forest,Violence Against the Person,4944,-0.015955,51.601154
+2012,Wandsworth,Burglary,3395,-0.194861,51.4573
+2012,Wandsworth,Criminal Damage,2019,-0.194861,51.4573
+2012,Wandsworth,Drugs,1045,-0.194861,51.4573
+2012,Wandsworth,Other Notifiable Offences,319,-0.194861,51.4573
+2012,Wandsworth,Robbery,1198,-0.194861,51.4573
+2012,Wandsworth,Theft and Handling,12370,-0.194861,51.4573
+2012,Wandsworth,Violence Against the Person,4111,-0.194861,51.4573
+2012,Westminster,Burglary,4083,-0.12802,51.50008
+2012,Westminster,Criminal Damage,2254,-0.12802,51.50008
+2012,Westminster,Drugs,4654,-0.12802,51.50008
+2012,Westminster,Other Notifiable Offences,641,-0.12802,51.50008
+2012,Westminster,Robbery,2312,-0.12802,51.50008
+2012,Westminster,Theft and Handling,38152,-0.12802,51.50008
+2012,Westminster,Violence Against the Person,7130,-0.12802,51.50008
+2013,Barking and Dagenham,Burglary,2222,0.133158,51.5465
+2013,Barking and Dagenham,Criminal Damage,1619,0.133158,51.5465
+2013,Barking and Dagenham,Drugs,1079,0.133158,51.5465
+2013,Barking and Dagenham,Other Notifiable Offences,284,0.133158,51.5465
+2013,Barking and Dagenham,Robbery,526,0.133158,51.5465
+2013,Barking and Dagenham,Theft and Handling,6140,0.133158,51.5465
+2013,Barking and Dagenham,Violence Against the Person,3889,0.133158,51.5465
+2013,Barnet,Burglary,4262,-0.19622,51.6455
+2013,Barnet,Criminal Damage,1855,-0.19622,51.6455
+2013,Barnet,Drugs,1041,-0.19622,51.6455
+2013,Barnet,Other Notifiable Offences,300,-0.19622,51.6455
+2013,Barnet,Robbery,802,-0.19622,51.6455
+2013,Barnet,Theft and Handling,9958,-0.19622,51.6455
+2013,Barnet,Violence Against the Person,4292,-0.19622,51.6455
+2013,Bexley,Burglary,1784,0.110969,51.45964
+2013,Bexley,Criminal Damage,1432,0.110969,51.45964
+2013,Bexley,Drugs,837,0.110969,51.45964
+2013,Bexley,Other Notifiable Offences,224,0.110969,51.45964
+2013,Bexley,Robbery,268,0.110969,51.45964
+2013,Bexley,Theft and Handling,4293,0.110969,51.45964
+2013,Bexley,Violence Against the Person,2714,0.110969,51.45964
+2013,Brent,Burglary,3084,-0.271275,51.5436
+2013,Brent,Criminal Damage,1994,-0.271275,51.5436
+2013,Brent,Drugs,3341,-0.271275,51.5436
+2013,Brent,Other Notifiable Offences,424,-0.271275,51.5436
+2013,Brent,Robbery,1143,-0.271275,51.5436
+2013,Brent,Theft and Handling,7776,-0.271275,51.5436
+2013,Brent,Violence Against the Person,5997,-0.271275,51.5436
+2013,Bromley,Burglary,3121,0.01493,51.4057
+2013,Bromley,Criminal Damage,1995,0.01493,51.4057
+2013,Bromley,Drugs,1046,0.01493,51.4057
+2013,Bromley,Other Notifiable Offences,276,0.01493,51.4057
+2013,Bromley,Robbery,575,0.01493,51.4057
+2013,Bromley,Theft and Handling,7725,0.01493,51.4057
+2013,Bromley,Violence Against the Person,4207,0.01493,51.4057
+2013,Camden,Burglary,3085,-0.12796,51.53236
+2013,Camden,Criminal Damage,1576,-0.12796,51.53236
+2013,Camden,Drugs,2172,-0.12796,51.53236
+2013,Camden,Other Notifiable Offences,412,-0.12796,51.53236
+2013,Camden,Robbery,872,-0.12796,51.53236
+2013,Camden,Theft and Handling,15767,-0.12796,51.53236
+2013,Camden,Violence Against the Person,4551,-0.12796,51.53236
+2013,City of London,Theft and Handling,79,-0.09743,51.5205
+2013,Croydon,Burglary,3958,-0.073803,51.36496
+2013,Croydon,Criminal Damage,2821,-0.073803,51.36496
+2013,Croydon,Drugs,2079,-0.073803,51.36496
+2013,Croydon,Other Notifiable Offences,394,-0.073803,51.36496
+2013,Croydon,Robbery,1699,-0.073803,51.36496
+2013,Croydon,Theft and Handling,10307,-0.073803,51.36496
+2013,Croydon,Violence Against the Person,6186,-0.073803,51.36496
+2013,Ealing,Burglary,3584,-0.29991,51.51407
+2013,Ealing,Criminal Damage,2254,-0.29991,51.51407
+2013,Ealing,Drugs,1897,-0.29991,51.51407
+2013,Ealing,Other Notifiable Offences,422,-0.29991,51.51407
+2013,Ealing,Robbery,911,-0.29991,51.51407
+2013,Ealing,Theft and Handling,10564,-0.29991,51.51407
+2013,Ealing,Violence Against the Person,6285,-0.29991,51.51407
+2013,Enfield,Burglary,3449,-0.076348,51.667797
+2013,Enfield,Criminal Damage,1964,-0.076348,51.667797
+2013,Enfield,Drugs,1557,-0.076348,51.667797
+2013,Enfield,Other Notifiable Offences,339,-0.076348,51.667797
+2013,Enfield,Robbery,935,-0.076348,51.667797
+2013,Enfield,Theft and Handling,8814,-0.076348,51.667797
+2013,Enfield,Violence Against the Person,4516,-0.076348,51.667797
+2013,Greenwich,Burglary,2369,0.00257,51.48451
+2013,Greenwich,Criminal Damage,2013,0.00257,51.48451
+2013,Greenwich,Drugs,1311,0.00257,51.48451
+2013,Greenwich,Other Notifiable Offences,387,0.00257,51.48451
+2013,Greenwich,Robbery,471,0.00257,51.48451
+2013,Greenwich,Theft and Handling,7319,0.00257,51.48451
+2013,Greenwich,Violence Against the Person,5078,0.00257,51.48451
+2013,Hackney,Burglary,2784,-0.05833,51.55
+2013,Hackney,Criminal Damage,1659,-0.05833,51.55
+2013,Hackney,Drugs,1883,-0.05833,51.55
+2013,Hackney,Other Notifiable Offences,365,-0.05833,51.55
+2013,Hackney,Robbery,1017,-0.05833,51.55
+2013,Hackney,Theft and Handling,12180,-0.05833,51.55
+2013,Hackney,Violence Against the Person,5745,-0.05833,51.55
+2013,Hammersmith and Fulham,Burglary,1514,-0.220817,51.495045
+2013,Hammersmith and Fulham,Criminal Damage,1196,-0.220817,51.495045
+2013,Hammersmith and Fulham,Drugs,1958,-0.220817,51.495045
+2013,Hammersmith and Fulham,Other Notifiable Offences,368,-0.220817,51.495045
+2013,Hammersmith and Fulham,Robbery,560,-0.220817,51.495045
+2013,Hammersmith and Fulham,Theft and Handling,9048,-0.220817,51.495045
+2013,Hammersmith and Fulham,Violence Against the Person,3961,-0.220817,51.495045
+2013,Haringey,Burglary,2731,-0.071193,51.58784
+2013,Haringey,Criminal Damage,1862,-0.071193,51.58784
+2013,Haringey,Drugs,1196,-0.071193,51.58784
+2013,Haringey,Other Notifiable Offences,278,-0.071193,51.58784
+2013,Haringey,Robbery,900,-0.071193,51.58784
+2013,Haringey,Theft and Handling,9305,-0.071193,51.58784
+2013,Haringey,Violence Against the Person,4433,-0.071193,51.58784
+2013,Harrow,Burglary,2097,-0.46443,51.4801
+2013,Harrow,Criminal Damage,1134,-0.46443,51.4801
+2013,Harrow,Drugs,892,-0.46443,51.4801
+2013,Harrow,Other Notifiable Offences,223,-0.46443,51.4801
+2013,Harrow,Robbery,503,-0.46443,51.4801
+2013,Harrow,Theft and Handling,4057,-0.46443,51.4801
+2013,Harrow,Violence Against the Person,3008,-0.46443,51.4801
+2013,Havering,Burglary,2480,0.255151,51.570454
+2013,Havering,Criminal Damage,1486,0.255151,51.570454
+2013,Havering,Drugs,1006,0.255151,51.570454
+2013,Havering,Other Notifiable Offences,249,0.255151,51.570454
+2013,Havering,Robbery,292,0.255151,51.570454
+2013,Havering,Theft and Handling,6312,0.255151,51.570454
+2013,Havering,Violence Against the Person,3264,0.255151,51.570454
+2013,Hillingdon,Burglary,2853,-0.44998,51.54304
+2013,Hillingdon,Criminal Damage,2149,-0.44998,51.54304
+2013,Hillingdon,Drugs,1031,-0.44998,51.54304
+2013,Hillingdon,Other Notifiable Offences,540,-0.44998,51.54304
+2013,Hillingdon,Robbery,543,-0.44998,51.54304
+2013,Hillingdon,Theft and Handling,8177,-0.44998,51.54304
+2013,Hillingdon,Violence Against the Person,4955,-0.44998,51.54304
+2013,Hounslow,Burglary,2473,-0.361667,51.4675
+2013,Hounslow,Criminal Damage,1988,-0.361667,51.4675
+2013,Hounslow,Drugs,1493,-0.361667,51.4675
+2013,Hounslow,Other Notifiable Offences,358,-0.361667,51.4675
+2013,Hounslow,Robbery,479,-0.361667,51.4675
+2013,Hounslow,Theft and Handling,7911,-0.361667,51.4675
+2013,Hounslow,Violence Against the Person,5047,-0.361667,51.4675
+2013,Islington,Burglary,2394,-0.10614,51.53279
+2013,Islington,Criminal Damage,1592,-0.10614,51.53279
+2013,Islington,Drugs,1410,-0.10614,51.53279
+2013,Islington,Other Notifiable Offences,382,-0.10614,51.53279
+2013,Islington,Robbery,943,-0.10614,51.53279
+2013,Islington,Theft and Handling,12169,-0.10614,51.53279
+2013,Islington,Violence Against the Person,4894,-0.10614,51.53279
+2013,Kensington and Chelsea,Burglary,1754,-0.192221,51.501205
+2013,Kensington and Chelsea,Criminal Damage,824,-0.192221,51.501205
+2013,Kensington and Chelsea,Drugs,1098,-0.192221,51.501205
+2013,Kensington and Chelsea,Other Notifiable Offences,216,-0.192221,51.501205
+2013,Kensington and Chelsea,Robbery,538,-0.192221,51.501205
+2013,Kensington and Chelsea,Theft and Handling,10742,-0.192221,51.501205
+2013,Kensington and Chelsea,Violence Against the Person,2530,-0.192221,51.501205
+2013,Kingston upon Thames,Burglary,1190,-0.29142,51.41104
+2013,Kingston upon Thames,Criminal Damage,947,-0.29142,51.41104
+2013,Kingston upon Thames,Drugs,588,-0.29142,51.41104
+2013,Kingston upon Thames,Other Notifiable Offences,104,-0.29142,51.41104
+2013,Kingston upon Thames,Robbery,156,-0.29142,51.41104
+2013,Kingston upon Thames,Theft and Handling,4161,-0.29142,51.41104
+2013,Kingston upon Thames,Violence Against the Person,2045,-0.29142,51.41104
+2013,Lambeth,Burglary,3876,-0.11108,51.49085
+2013,Lambeth,Criminal Damage,2415,-0.11108,51.49085
+2013,Lambeth,Drugs,1894,-0.11108,51.49085
+2013,Lambeth,Other Notifiable Offences,405,-0.11108,51.49085
+2013,Lambeth,Robbery,2422,-0.11108,51.49085
+2013,Lambeth,Theft and Handling,13995,-0.11108,51.49085
+2013,Lambeth,Violence Against the Person,6861,-0.11108,51.49085
+2013,Lewisham,Burglary,3297,-0.01213,51.45916
+2013,Lewisham,Criminal Damage,2188,-0.01213,51.45916
+2013,Lewisham,Drugs,1714,-0.01213,51.45916
+2013,Lewisham,Other Notifiable Offences,344,-0.01213,51.45916
+2013,Lewisham,Robbery,1271,-0.01213,51.45916
+2013,Lewisham,Theft and Handling,7319,-0.01213,51.45916
+2013,Lewisham,Violence Against the Person,5941,-0.01213,51.45916
+2013,Merton,Burglary,1763,-0.166667,51.3833
+2013,Merton,Criminal Damage,1205,-0.166667,51.3833
+2013,Merton,Drugs,638,-0.166667,51.3833
+2013,Merton,Other Notifiable Offences,155,-0.166667,51.3833
+2013,Merton,Robbery,440,-0.166667,51.3833
+2013,Merton,Theft and Handling,4930,-0.166667,51.3833
+2013,Merton,Violence Against the Person,2464,-0.166667,51.3833
+2013,Newham,Burglary,2904,0.013242,51.524384
+2013,Newham,Criminal Damage,2081,0.013242,51.524384
+2013,Newham,Drugs,1622,0.013242,51.524384
+2013,Newham,Other Notifiable Offences,424,0.013242,51.524384
+2013,Newham,Robbery,2121,0.013242,51.524384
+2013,Newham,Theft and Handling,12271,0.013242,51.524384
+2013,Newham,Violence Against the Person,6154,0.013242,51.524384
+2013,Redbridge,Burglary,2993,0.083333,51.5667
+2013,Redbridge,Criminal Damage,1488,0.083333,51.5667
+2013,Redbridge,Drugs,1796,0.083333,51.5667
+2013,Redbridge,Other Notifiable Offences,296,0.083333,51.5667
+2013,Redbridge,Robbery,883,0.083333,51.5667
+2013,Redbridge,Theft and Handling,8099,0.083333,51.5667
+2013,Redbridge,Violence Against the Person,4238,0.083333,51.5667
+2013,Richmond upon Thames,Burglary,1927,-0.312531,51.442757
+2013,Richmond upon Thames,Criminal Damage,1147,-0.312531,51.442757
+2013,Richmond upon Thames,Drugs,628,-0.312531,51.442757
+2013,Richmond upon Thames,Other Notifiable Offences,144,-0.312531,51.442757
+2013,Richmond upon Thames,Robbery,194,-0.312531,51.442757
+2013,Richmond upon Thames,Theft and Handling,4489,-0.312531,51.442757
+2013,Richmond upon Thames,Violence Against the Person,1910,-0.312531,51.442757
+2013,Southwark,Burglary,3458,-0.08921,51.50541
+2013,Southwark,Criminal Damage,2370,-0.08921,51.50541
+2013,Southwark,Drugs,2657,-0.08921,51.50541
+2013,Southwark,Other Notifiable Offences,451,-0.08921,51.50541
+2013,Southwark,Robbery,2249,-0.08921,51.50541
+2013,Southwark,Theft and Handling,13689,-0.08921,51.50541
+2013,Southwark,Violence Against the Person,6254,-0.08921,51.50541
+2013,Sutton,Burglary,1427,-0.166667,51.3333
+2013,Sutton,Criminal Damage,1219,-0.166667,51.3333
+2013,Sutton,Drugs,477,-0.166667,51.3333
+2013,Sutton,Other Notifiable Offences,140,-0.166667,51.3333
+2013,Sutton,Robbery,246,-0.166667,51.3333
+2013,Sutton,Theft and Handling,4173,-0.166667,51.3333
+2013,Sutton,Violence Against the Person,2375,-0.166667,51.3333
+2013,Tower Hamlets,Burglary,2695,-0.05457,51.52017
+2013,Tower Hamlets,Criminal Damage,2054,-0.05457,51.52017
+2013,Tower Hamlets,Drugs,3019,-0.05457,51.52017
+2013,Tower Hamlets,Other Notifiable Offences,494,-0.05457,51.52017
+2013,Tower Hamlets,Robbery,1253,-0.05457,51.52017
+2013,Tower Hamlets,Theft and Handling,10430,-0.05457,51.52017
+2013,Tower Hamlets,Violence Against the Person,6313,-0.05457,51.52017
+2013,Waltham Forest,Burglary,2701,-0.015955,51.601154
+2013,Waltham Forest,Criminal Damage,1795,-0.015955,51.601154
+2013,Waltham Forest,Drugs,1692,-0.015955,51.601154
+2013,Waltham Forest,Other Notifiable Offences,321,-0.015955,51.601154
+2013,Waltham Forest,Robbery,981,-0.015955,51.601154
+2013,Waltham Forest,Theft and Handling,9240,-0.015955,51.601154
+2013,Waltham Forest,Violence Against the Person,5173,-0.015955,51.601154
+2013,Wandsworth,Burglary,3084,-0.194861,51.4573
+2013,Wandsworth,Criminal Damage,1801,-0.194861,51.4573
+2013,Wandsworth,Drugs,1071,-0.194861,51.4573
+2013,Wandsworth,Other Notifiable Offences,326,-0.194861,51.4573
+2013,Wandsworth,Robbery,943,-0.194861,51.4573
+2013,Wandsworth,Theft and Handling,11065,-0.194861,51.4573
+2013,Wandsworth,Violence Against the Person,4000,-0.194861,51.4573
+2013,Westminster,Burglary,3906,-0.12802,51.50008
+2013,Westminster,Criminal Damage,2080,-0.12802,51.50008
+2013,Westminster,Drugs,4151,-0.12802,51.50008
+2013,Westminster,Other Notifiable Offences,762,-0.12802,51.50008
+2013,Westminster,Robbery,2198,-0.12802,51.50008
+2013,Westminster,Theft and Handling,33868,-0.12802,51.50008
+2013,Westminster,Violence Against the Person,6887,-0.12802,51.50008
+2014,Barking and Dagenham,Burglary,1894,0.133158,51.5465
+2014,Barking and Dagenham,Criminal Damage,1653,0.133158,51.5465
+2014,Barking and Dagenham,Drugs,803,0.133158,51.5465
+2014,Barking and Dagenham,Other Notifiable Offences,328,0.133158,51.5465
+2014,Barking and Dagenham,Robbery,494,0.133158,51.5465
+2014,Barking and Dagenham,Theft and Handling,5289,0.133158,51.5465
+2014,Barking and Dagenham,Violence Against the Person,4965,0.133158,51.5465
+2014,Barnet,Burglary,3621,-0.19622,51.6455
+2014,Barnet,Criminal Damage,2095,-0.19622,51.6455
+2014,Barnet,Drugs,1042,-0.19622,51.6455
+2014,Barnet,Other Notifiable Offences,361,-0.19622,51.6455
+2014,Barnet,Robbery,560,-0.19622,51.6455
+2014,Barnet,Theft and Handling,9094,-0.19622,51.6455
+2014,Barnet,Violence Against the Person,5799,-0.19622,51.6455
+2014,Bexley,Burglary,1539,0.110969,51.45964
+2014,Bexley,Criminal Damage,1460,0.110969,51.45964
+2014,Bexley,Drugs,762,0.110969,51.45964
+2014,Bexley,Other Notifiable Offences,248,0.110969,51.45964
+2014,Bexley,Robbery,204,0.110969,51.45964
+2014,Bexley,Theft and Handling,4285,0.110969,51.45964
+2014,Bexley,Violence Against the Person,3346,0.110969,51.45964
+2014,Brent,Burglary,2639,-0.271275,51.5436
+2014,Brent,Criminal Damage,2136,-0.271275,51.5436
+2014,Brent,Drugs,2891,-0.271275,51.5436
+2014,Brent,Other Notifiable Offences,472,-0.271275,51.5436
+2014,Brent,Robbery,876,-0.271275,51.5436
+2014,Brent,Theft and Handling,7721,-0.271275,51.5436
+2014,Brent,Violence Against the Person,7691,-0.271275,51.5436
+2014,Bromley,Burglary,2686,0.01493,51.4057
+2014,Bromley,Criminal Damage,2273,0.01493,51.4057
+2014,Bromley,Drugs,990,0.01493,51.4057
+2014,Bromley,Other Notifiable Offences,328,0.01493,51.4057
+2014,Bromley,Robbery,390,0.01493,51.4057
+2014,Bromley,Theft and Handling,7489,0.01493,51.4057
+2014,Bromley,Violence Against the Person,5512,0.01493,51.4057
+2014,Camden,Burglary,2925,-0.12796,51.53236
+2014,Camden,Criminal Damage,1670,-0.12796,51.53236
+2014,Camden,Drugs,1919,-0.12796,51.53236
+2014,Camden,Other Notifiable Offences,477,-0.12796,51.53236
+2014,Camden,Robbery,880,-0.12796,51.53236
+2014,Camden,Theft and Handling,13640,-0.12796,51.53236
+2014,Camden,Violence Against the Person,5687,-0.12796,51.53236
+2014,City of London,Theft and Handling,83,-0.09743,51.5205
+2014,City of London,Violence Against the Person,18,-0.09743,51.5205
+2014,Croydon,Burglary,3139,-0.073803,51.36496
+2014,Croydon,Criminal Damage,2830,-0.073803,51.36496
+2014,Croydon,Drugs,1868,-0.073803,51.36496
+2014,Croydon,Other Notifiable Offences,506,-0.073803,51.36496
+2014,Croydon,Robbery,972,-0.073803,51.36496
+2014,Croydon,Theft and Handling,9794,-0.073803,51.36496
+2014,Croydon,Violence Against the Person,8248,-0.073803,51.36496
+2014,Ealing,Burglary,2905,-0.29991,51.51407
+2014,Ealing,Criminal Damage,2326,-0.29991,51.51407
+2014,Ealing,Drugs,1606,-0.29991,51.51407
+2014,Ealing,Other Notifiable Offences,472,-0.29991,51.51407
+2014,Ealing,Robbery,648,-0.29991,51.51407
+2014,Ealing,Theft and Handling,9628,-0.29991,51.51407
+2014,Ealing,Violence Against the Person,7393,-0.29991,51.51407
+2014,Enfield,Burglary,3045,-0.076348,51.667797
+2014,Enfield,Criminal Damage,2068,-0.076348,51.667797
+2014,Enfield,Drugs,1420,-0.076348,51.667797
+2014,Enfield,Other Notifiable Offences,440,-0.076348,51.667797
+2014,Enfield,Robbery,767,-0.076348,51.667797
+2014,Enfield,Theft and Handling,7995,-0.076348,51.667797
+2014,Enfield,Violence Against the Person,5965,-0.076348,51.667797
+2014,Greenwich,Burglary,2145,0.00257,51.48451
+2014,Greenwich,Criminal Damage,1976,0.00257,51.48451
+2014,Greenwich,Drugs,1235,0.00257,51.48451
+2014,Greenwich,Other Notifiable Offences,445,0.00257,51.48451
+2014,Greenwich,Robbery,399,0.00257,51.48451
+2014,Greenwich,Theft and Handling,7250,0.00257,51.48451
+2014,Greenwich,Violence Against the Person,6444,0.00257,51.48451
+2014,Hackney,Burglary,2669,-0.05833,51.55
+2014,Hackney,Criminal Damage,1919,-0.05833,51.55
+2014,Hackney,Drugs,1298,-0.05833,51.55
+2014,Hackney,Other Notifiable Offences,432,-0.05833,51.55
+2014,Hackney,Robbery,959,-0.05833,51.55
+2014,Hackney,Theft and Handling,10500,-0.05833,51.55
+2014,Hackney,Violence Against the Person,7116,-0.05833,51.55
+2014,Hammersmith and Fulham,Burglary,1449,-0.220817,51.495045
+2014,Hammersmith and Fulham,Criminal Damage,1363,-0.220817,51.495045
+2014,Hammersmith and Fulham,Drugs,1807,-0.220817,51.495045
+2014,Hammersmith and Fulham,Other Notifiable Offences,429,-0.220817,51.495045
+2014,Hammersmith and Fulham,Robbery,370,-0.220817,51.495045
+2014,Hammersmith and Fulham,Theft and Handling,8929,-0.220817,51.495045
+2014,Hammersmith and Fulham,Violence Against the Person,4838,-0.220817,51.495045
+2014,Haringey,Burglary,2882,-0.071193,51.58784
+2014,Haringey,Criminal Damage,2143,-0.071193,51.58784
+2014,Haringey,Drugs,1168,-0.071193,51.58784
+2014,Haringey,Other Notifiable Offences,394,-0.071193,51.58784
+2014,Haringey,Robbery,979,-0.071193,51.58784
+2014,Haringey,Theft and Handling,8956,-0.071193,51.58784
+2014,Haringey,Violence Against the Person,6251,-0.071193,51.58784
+2014,Harrow,Burglary,1833,-0.46443,51.4801
+2014,Harrow,Criminal Damage,1185,-0.46443,51.4801
+2014,Harrow,Drugs,934,-0.46443,51.4801
+2014,Harrow,Other Notifiable Offences,235,-0.46443,51.4801
+2014,Harrow,Robbery,306,-0.46443,51.4801
+2014,Harrow,Theft and Handling,3949,-0.46443,51.4801
+2014,Harrow,Violence Against the Person,3467,-0.46443,51.4801
+2014,Havering,Burglary,2122,0.255151,51.570454
+2014,Havering,Criminal Damage,1555,0.255151,51.570454
+2014,Havering,Drugs,749,0.255151,51.570454
+2014,Havering,Other Notifiable Offences,320,0.255151,51.570454
+2014,Havering,Robbery,287,0.255151,51.570454
+2014,Havering,Theft and Handling,5736,0.255151,51.570454
+2014,Havering,Violence Against the Person,3965,0.255151,51.570454
+2014,Hillingdon,Burglary,2681,-0.44998,51.54304
+2014,Hillingdon,Criminal Damage,2423,-0.44998,51.54304
+2014,Hillingdon,Drugs,924,-0.44998,51.54304
+2014,Hillingdon,Other Notifiable Offences,891,-0.44998,51.54304
+2014,Hillingdon,Robbery,503,-0.44998,51.54304
+2014,Hillingdon,Theft and Handling,8859,-0.44998,51.54304
+2014,Hillingdon,Violence Against the Person,6847,-0.44998,51.54304
+2014,Hounslow,Burglary,1921,-0.361667,51.4675
+2014,Hounslow,Criminal Damage,1940,-0.361667,51.4675
+2014,Hounslow,Drugs,1514,-0.361667,51.4675
+2014,Hounslow,Other Notifiable Offences,455,-0.361667,51.4675
+2014,Hounslow,Robbery,397,-0.361667,51.4675
+2014,Hounslow,Theft and Handling,7726,-0.361667,51.4675
+2014,Hounslow,Violence Against the Person,6052,-0.361667,51.4675
+2014,Islington,Burglary,2357,-0.10614,51.53279
+2014,Islington,Criminal Damage,1954,-0.10614,51.53279
+2014,Islington,Drugs,1312,-0.10614,51.53279
+2014,Islington,Other Notifiable Offences,448,-0.10614,51.53279
+2014,Islington,Robbery,837,-0.10614,51.53279
+2014,Islington,Theft and Handling,11264,-0.10614,51.53279
+2014,Islington,Violence Against the Person,6507,-0.10614,51.53279
+2014,Kensington and Chelsea,Burglary,1573,-0.192221,51.501205
+2014,Kensington and Chelsea,Criminal Damage,970,-0.192221,51.501205
+2014,Kensington and Chelsea,Drugs,786,-0.192221,51.501205
+2014,Kensington and Chelsea,Other Notifiable Offences,246,-0.192221,51.501205
+2014,Kensington and Chelsea,Robbery,456,-0.192221,51.501205
+2014,Kensington and Chelsea,Theft and Handling,10229,-0.192221,51.501205
+2014,Kensington and Chelsea,Violence Against the Person,3580,-0.192221,51.501205
+2014,Kingston upon Thames,Burglary,993,-0.29142,51.41104
+2014,Kingston upon Thames,Criminal Damage,982,-0.29142,51.41104
+2014,Kingston upon Thames,Drugs,750,-0.29142,51.41104
+2014,Kingston upon Thames,Other Notifiable Offences,144,-0.29142,51.41104
+2014,Kingston upon Thames,Robbery,107,-0.29142,51.41104
+2014,Kingston upon Thames,Theft and Handling,3927,-0.29142,51.41104
+2014,Kingston upon Thames,Violence Against the Person,2385,-0.29142,51.41104
+2014,Lambeth,Burglary,3019,-0.11108,51.49085
+2014,Lambeth,Criminal Damage,2543,-0.11108,51.49085
+2014,Lambeth,Drugs,2637,-0.11108,51.49085
+2014,Lambeth,Other Notifiable Offences,583,-0.11108,51.49085
+2014,Lambeth,Robbery,1383,-0.11108,51.49085
+2014,Lambeth,Theft and Handling,12647,-0.11108,51.49085
+2014,Lambeth,Violence Against the Person,8953,-0.11108,51.49085
+2014,Lewisham,Burglary,2338,-0.01213,51.45916
+2014,Lewisham,Criminal Damage,2186,-0.01213,51.45916
+2014,Lewisham,Drugs,1321,-0.01213,51.45916
+2014,Lewisham,Other Notifiable Offences,371,-0.01213,51.45916
+2014,Lewisham,Robbery,786,-0.01213,51.45916
+2014,Lewisham,Theft and Handling,7148,-0.01213,51.45916
+2014,Lewisham,Violence Against the Person,6951,-0.01213,51.45916
+2014,Merton,Burglary,1679,-0.166667,51.3833
+2014,Merton,Criminal Damage,1255,-0.166667,51.3833
+2014,Merton,Drugs,561,-0.166667,51.3833
+2014,Merton,Other Notifiable Offences,170,-0.166667,51.3833
+2014,Merton,Robbery,285,-0.166667,51.3833
+2014,Merton,Theft and Handling,4623,-0.166667,51.3833
+2014,Merton,Violence Against the Person,3023,-0.166667,51.3833
+2014,Newham,Burglary,2480,0.013242,51.524384
+2014,Newham,Criminal Damage,2223,0.013242,51.524384
+2014,Newham,Drugs,1721,0.013242,51.524384
+2014,Newham,Other Notifiable Offences,575,0.013242,51.524384
+2014,Newham,Robbery,1627,0.013242,51.524384
+2014,Newham,Theft and Handling,11499,0.013242,51.524384
+2014,Newham,Violence Against the Person,7880,0.013242,51.524384
+2014,Redbridge,Burglary,2631,0.083333,51.5667
+2014,Redbridge,Criminal Damage,1615,0.083333,51.5667
+2014,Redbridge,Drugs,1538,0.083333,51.5667
+2014,Redbridge,Other Notifiable Offences,400,0.083333,51.5667
+2014,Redbridge,Robbery,714,0.083333,51.5667
+2014,Redbridge,Theft and Handling,7025,0.083333,51.5667
+2014,Redbridge,Violence Against the Person,5667,0.083333,51.5667
+2014,Richmond upon Thames,Burglary,1757,-0.312531,51.442757
+2014,Richmond upon Thames,Criminal Damage,1087,-0.312531,51.442757
+2014,Richmond upon Thames,Drugs,457,-0.312531,51.442757
+2014,Richmond upon Thames,Other Notifiable Offences,191,-0.312531,51.442757
+2014,Richmond upon Thames,Robbery,131,-0.312531,51.442757
+2014,Richmond upon Thames,Theft and Handling,4449,-0.312531,51.442757
+2014,Richmond upon Thames,Violence Against the Person,2384,-0.312531,51.442757
+2014,Southwark,Burglary,2831,-0.08921,51.50541
+2014,Southwark,Criminal Damage,2458,-0.08921,51.50541
+2014,Southwark,Drugs,2723,-0.08921,51.50541
+2014,Southwark,Other Notifiable Offences,480,-0.08921,51.50541
+2014,Southwark,Robbery,1272,-0.08921,51.50541
+2014,Southwark,Theft and Handling,11377,-0.08921,51.50541
+2014,Southwark,Violence Against the Person,7771,-0.08921,51.50541
+2014,Sutton,Burglary,1397,-0.166667,51.3333
+2014,Sutton,Criminal Damage,1257,-0.166667,51.3333
+2014,Sutton,Drugs,456,-0.166667,51.3333
+2014,Sutton,Other Notifiable Offences,134,-0.166667,51.3333
+2014,Sutton,Robbery,202,-0.166667,51.3333
+2014,Sutton,Theft and Handling,3867,-0.166667,51.3333
+2014,Sutton,Violence Against the Person,3130,-0.166667,51.3333
+2014,Tower Hamlets,Burglary,2319,-0.05457,51.52017
+2014,Tower Hamlets,Criminal Damage,2233,-0.05457,51.52017
+2014,Tower Hamlets,Drugs,2191,-0.05457,51.52017
+2014,Tower Hamlets,Other Notifiable Offences,513,-0.05457,51.52017
+2014,Tower Hamlets,Robbery,1110,-0.05457,51.52017
+2014,Tower Hamlets,Theft and Handling,9583,-0.05457,51.52017
+2014,Tower Hamlets,Violence Against the Person,7555,-0.05457,51.52017
+2014,Waltham Forest,Burglary,2472,-0.015955,51.601154
+2014,Waltham Forest,Criminal Damage,1730,-0.015955,51.601154
+2014,Waltham Forest,Drugs,1360,-0.015955,51.601154
+2014,Waltham Forest,Other Notifiable Offences,375,-0.015955,51.601154
+2014,Waltham Forest,Robbery,714,-0.015955,51.601154
+2014,Waltham Forest,Theft and Handling,7479,-0.015955,51.601154
+2014,Waltham Forest,Violence Against the Person,6141,-0.015955,51.601154
+2014,Wandsworth,Burglary,2676,-0.194861,51.4573
+2014,Wandsworth,Criminal Damage,1751,-0.194861,51.4573
+2014,Wandsworth,Drugs,885,-0.194861,51.4573
+2014,Wandsworth,Other Notifiable Offences,372,-0.194861,51.4573
+2014,Wandsworth,Robbery,598,-0.194861,51.4573
+2014,Wandsworth,Theft and Handling,9696,-0.194861,51.4573
+2014,Wandsworth,Violence Against the Person,5386,-0.194861,51.4573
+2014,Westminster,Burglary,3435,-0.12802,51.50008
+2014,Westminster,Criminal Damage,2016,-0.12802,51.50008
+2014,Westminster,Drugs,2804,-0.12802,51.50008
+2014,Westminster,Other Notifiable Offences,800,-0.12802,51.50008
+2014,Westminster,Robbery,1933,-0.12802,51.50008
+2014,Westminster,Theft and Handling,28144,-0.12802,51.50008
+2014,Westminster,Violence Against the Person,8432,-0.12802,51.50008
+2015,Barking and Dagenham,Burglary,1629,0.133158,51.5465
+2015,Barking and Dagenham,Criminal Damage,1822,0.133158,51.5465
+2015,Barking and Dagenham,Drugs,944,0.133158,51.5465
+2015,Barking and Dagenham,Other Notifiable Offences,333,0.133158,51.5465
+2015,Barking and Dagenham,Robbery,553,0.133158,51.5465
+2015,Barking and Dagenham,Theft and Handling,5177,0.133158,51.5465
+2015,Barking and Dagenham,Violence Against the Person,5888,0.133158,51.5465
+2015,Barnet,Burglary,3853,-0.19622,51.6455
+2015,Barnet,Criminal Damage,2252,-0.19622,51.6455
+2015,Barnet,Drugs,809,-0.19622,51.6455
+2015,Barnet,Other Notifiable Offences,389,-0.19622,51.6455
+2015,Barnet,Robbery,624,-0.19622,51.6455
+2015,Barnet,Theft and Handling,9204,-0.19622,51.6455
+2015,Barnet,Violence Against the Person,6905,-0.19622,51.6455
+2015,Bexley,Burglary,1085,0.110969,51.45964
+2015,Bexley,Criminal Damage,1565,0.110969,51.45964
+2015,Bexley,Drugs,678,0.110969,51.45964
+2015,Bexley,Other Notifiable Offences,387,0.110969,51.45964
+2015,Bexley,Robbery,171,0.110969,51.45964
+2015,Bexley,Theft and Handling,4165,0.110969,51.45964
+2015,Bexley,Violence Against the Person,3939,0.110969,51.45964
+2015,Brent,Burglary,2701,-0.271275,51.5436
+2015,Brent,Criminal Damage,2128,-0.271275,51.5436
+2015,Brent,Drugs,1808,-0.271275,51.5436
+2015,Brent,Other Notifiable Offences,411,-0.271275,51.5436
+2015,Brent,Robbery,883,-0.271275,51.5436
+2015,Brent,Theft and Handling,8467,-0.271275,51.5436
+2015,Brent,Violence Against the Person,8485,-0.271275,51.5436
+2015,Bromley,Burglary,2524,0.01493,51.4057
+2015,Bromley,Criminal Damage,2295,0.01493,51.4057
+2015,Bromley,Drugs,870,0.01493,51.4057
+2015,Bromley,Other Notifiable Offences,404,0.01493,51.4057
+2015,Bromley,Robbery,363,0.01493,51.4057
+2015,Bromley,Theft and Handling,7573,0.01493,51.4057
+2015,Bromley,Violence Against the Person,6608,0.01493,51.4057
+2015,Camden,Burglary,2830,-0.12796,51.53236
+2015,Camden,Criminal Damage,1896,-0.12796,51.53236
+2015,Camden,Drugs,1682,-0.12796,51.53236
+2015,Camden,Other Notifiable Offences,438,-0.12796,51.53236
+2015,Camden,Robbery,1030,-0.12796,51.53236
+2015,Camden,Theft and Handling,14455,-0.12796,51.53236
+2015,Camden,Violence Against the Person,7146,-0.12796,51.53236
+2015,City of London,Theft and Handling,104,-0.09743,51.5205
+2015,City of London,Violence Against the Person,28,-0.09743,51.5205
+2015,Croydon,Burglary,2718,-0.073803,51.36496
+2015,Croydon,Criminal Damage,3113,-0.073803,51.36496
+2015,Croydon,Drugs,1568,-0.073803,51.36496
+2015,Croydon,Other Notifiable Offences,579,-0.073803,51.36496
+2015,Croydon,Robbery,729,-0.073803,51.36496
+2015,Croydon,Theft and Handling,9502,-0.073803,51.36496
+2015,Croydon,Violence Against the Person,9880,-0.073803,51.36496
+2015,Ealing,Burglary,2630,-0.29991,51.51407
+2015,Ealing,Criminal Damage,2474,-0.29991,51.51407
+2015,Ealing,Drugs,1410,-0.29991,51.51407
+2015,Ealing,Other Notifiable Offences,547,-0.29991,51.51407
+2015,Ealing,Robbery,636,-0.29991,51.51407
+2015,Ealing,Theft and Handling,9603,-0.29991,51.51407
+2015,Ealing,Violence Against the Person,8947,-0.29991,51.51407
+2015,Enfield,Burglary,2809,-0.076348,51.667797
+2015,Enfield,Criminal Damage,2126,-0.076348,51.667797
+2015,Enfield,Drugs,1231,-0.076348,51.667797
+2015,Enfield,Other Notifiable Offences,427,-0.076348,51.667797
+2015,Enfield,Robbery,939,-0.076348,51.667797
+2015,Enfield,Theft and Handling,7827,-0.076348,51.667797
+2015,Enfield,Violence Against the Person,6717,-0.076348,51.667797
+2015,Greenwich,Burglary,1864,0.00257,51.48451
+2015,Greenwich,Criminal Damage,2281,0.00257,51.48451
+2015,Greenwich,Drugs,945,0.00257,51.48451
+2015,Greenwich,Other Notifiable Offences,513,0.00257,51.48451
+2015,Greenwich,Robbery,464,0.00257,51.48451
+2015,Greenwich,Theft and Handling,7106,0.00257,51.48451
+2015,Greenwich,Violence Against the Person,7756,0.00257,51.48451
+2015,Hackney,Burglary,2514,-0.05833,51.55
+2015,Hackney,Criminal Damage,2033,-0.05833,51.55
+2015,Hackney,Drugs,1317,-0.05833,51.55
+2015,Hackney,Other Notifiable Offences,469,-0.05833,51.55
+2015,Hackney,Robbery,1043,-0.05833,51.55
+2015,Hackney,Theft and Handling,11124,-0.05833,51.55
+2015,Hackney,Violence Against the Person,8441,-0.05833,51.55
+2015,Hammersmith and Fulham,Burglary,1571,-0.220817,51.495045
+2015,Hammersmith and Fulham,Criminal Damage,1471,-0.220817,51.495045
+2015,Hammersmith and Fulham,Drugs,1416,-0.220817,51.495045
+2015,Hammersmith and Fulham,Other Notifiable Offences,421,-0.220817,51.495045
+2015,Hammersmith and Fulham,Robbery,357,-0.220817,51.495045
+2015,Hammersmith and Fulham,Theft and Handling,8956,-0.220817,51.495045
+2015,Hammersmith and Fulham,Violence Against the Person,5656,-0.220817,51.495045
+2015,Haringey,Burglary,2568,-0.071193,51.58784
+2015,Haringey,Criminal Damage,2141,-0.071193,51.58784
+2015,Haringey,Drugs,1335,-0.071193,51.58784
+2015,Haringey,Other Notifiable Offences,445,-0.071193,51.58784
+2015,Haringey,Robbery,1235,-0.071193,51.58784
+2015,Haringey,Theft and Handling,9368,-0.071193,51.58784
+2015,Haringey,Violence Against the Person,7534,-0.071193,51.58784
+2015,Harrow,Burglary,1671,-0.46443,51.4801
+2015,Harrow,Criminal Damage,1180,-0.46443,51.4801
+2015,Harrow,Drugs,623,-0.46443,51.4801
+2015,Harrow,Other Notifiable Offences,207,-0.46443,51.4801
+2015,Harrow,Robbery,311,-0.46443,51.4801
+2015,Harrow,Theft and Handling,4411,-0.46443,51.4801
+2015,Harrow,Violence Against the Person,4198,-0.46443,51.4801
+2015,Havering,Burglary,1940,0.255151,51.570454
+2015,Havering,Criminal Damage,1660,0.255151,51.570454
+2015,Havering,Drugs,705,0.255151,51.570454
+2015,Havering,Other Notifiable Offences,359,0.255151,51.570454
+2015,Havering,Robbery,323,0.255151,51.570454
+2015,Havering,Theft and Handling,5850,0.255151,51.570454
+2015,Havering,Violence Against the Person,5033,0.255151,51.570454
+2015,Hillingdon,Burglary,2216,-0.44998,51.54304
+2015,Hillingdon,Criminal Damage,2313,-0.44998,51.54304
+2015,Hillingdon,Drugs,1103,-0.44998,51.54304
+2015,Hillingdon,Other Notifiable Offences,1008,-0.44998,51.54304
+2015,Hillingdon,Robbery,322,-0.44998,51.54304
+2015,Hillingdon,Theft and Handling,8822,-0.44998,51.54304
+2015,Hillingdon,Violence Against the Person,7450,-0.44998,51.54304
+2015,Hounslow,Burglary,1780,-0.361667,51.4675
+2015,Hounslow,Criminal Damage,2164,-0.361667,51.4675
+2015,Hounslow,Drugs,1097,-0.361667,51.4675
+2015,Hounslow,Other Notifiable Offences,533,-0.361667,51.4675
+2015,Hounslow,Robbery,379,-0.361667,51.4675
+2015,Hounslow,Theft and Handling,8238,-0.361667,51.4675
+2015,Hounslow,Violence Against the Person,7095,-0.361667,51.4675
+2015,Islington,Burglary,2349,-0.10614,51.53279
+2015,Islington,Criminal Damage,1981,-0.10614,51.53279
+2015,Islington,Drugs,1386,-0.10614,51.53279
+2015,Islington,Other Notifiable Offences,480,-0.10614,51.53279
+2015,Islington,Robbery,979,-0.10614,51.53279
+2015,Islington,Theft and Handling,12466,-0.10614,51.53279
+2015,Islington,Violence Against the Person,7391,-0.10614,51.53279
+2015,Kensington and Chelsea,Burglary,1590,-0.192221,51.501205
+2015,Kensington and Chelsea,Criminal Damage,1053,-0.192221,51.501205
+2015,Kensington and Chelsea,Drugs,1026,-0.192221,51.501205
+2015,Kensington and Chelsea,Other Notifiable Offences,287,-0.192221,51.501205
+2015,Kensington and Chelsea,Robbery,410,-0.192221,51.501205
+2015,Kensington and Chelsea,Theft and Handling,10168,-0.192221,51.501205
+2015,Kensington and Chelsea,Violence Against the Person,4536,-0.192221,51.501205
+2015,Kingston upon Thames,Burglary,927,-0.29142,51.41104
+2015,Kingston upon Thames,Criminal Damage,1028,-0.29142,51.41104
+2015,Kingston upon Thames,Drugs,901,-0.29142,51.41104
+2015,Kingston upon Thames,Other Notifiable Offences,201,-0.29142,51.41104
+2015,Kingston upon Thames,Robbery,109,-0.29142,51.41104
+2015,Kingston upon Thames,Theft and Handling,3558,-0.29142,51.41104
+2015,Kingston upon Thames,Violence Against the Person,3014,-0.29142,51.41104
+2015,Lambeth,Burglary,2569,-0.11108,51.49085
+2015,Lambeth,Criminal Damage,2692,-0.11108,51.49085
+2015,Lambeth,Drugs,2652,-0.11108,51.49085
+2015,Lambeth,Other Notifiable Offences,639,-0.11108,51.49085
+2015,Lambeth,Robbery,1158,-0.11108,51.49085
+2015,Lambeth,Theft and Handling,12963,-0.11108,51.49085
+2015,Lambeth,Violence Against the Person,10491,-0.11108,51.49085
+2015,Lewisham,Burglary,2146,-0.01213,51.45916
+2015,Lewisham,Criminal Damage,2466,-0.01213,51.45916
+2015,Lewisham,Drugs,1595,-0.01213,51.45916
+2015,Lewisham,Other Notifiable Offences,413,-0.01213,51.45916
+2015,Lewisham,Robbery,811,-0.01213,51.45916
+2015,Lewisham,Theft and Handling,7566,-0.01213,51.45916
+2015,Lewisham,Violence Against the Person,8440,-0.01213,51.45916
+2015,Merton,Burglary,1428,-0.166667,51.3833
+2015,Merton,Criminal Damage,1425,-0.166667,51.3833
+2015,Merton,Drugs,476,-0.166667,51.3833
+2015,Merton,Other Notifiable Offences,204,-0.166667,51.3833
+2015,Merton,Robbery,261,-0.166667,51.3833
+2015,Merton,Theft and Handling,4582,-0.166667,51.3833
+2015,Merton,Violence Against the Person,3897,-0.166667,51.3833
+2015,Newham,Burglary,2274,0.013242,51.524384
+2015,Newham,Criminal Damage,2397,0.013242,51.524384
+2015,Newham,Drugs,1682,0.013242,51.524384
+2015,Newham,Other Notifiable Offences,630,0.013242,51.524384
+2015,Newham,Robbery,1399,0.013242,51.524384
+2015,Newham,Theft and Handling,11421,0.013242,51.524384
+2015,Newham,Violence Against the Person,9414,0.013242,51.524384
+2015,Redbridge,Burglary,2245,0.083333,51.5667
+2015,Redbridge,Criminal Damage,1627,0.083333,51.5667
+2015,Redbridge,Drugs,1272,0.083333,51.5667
+2015,Redbridge,Other Notifiable Offences,397,0.083333,51.5667
+2015,Redbridge,Robbery,657,0.083333,51.5667
+2015,Redbridge,Theft and Handling,6806,0.083333,51.5667
+2015,Redbridge,Violence Against the Person,5893,0.083333,51.5667
+2015,Richmond upon Thames,Burglary,1451,-0.312531,51.442757
+2015,Richmond upon Thames,Criminal Damage,1074,-0.312531,51.442757
+2015,Richmond upon Thames,Drugs,396,-0.312531,51.442757
+2015,Richmond upon Thames,Other Notifiable Offences,217,-0.312531,51.442757
+2015,Richmond upon Thames,Robbery,149,-0.312531,51.442757
+2015,Richmond upon Thames,Theft and Handling,4265,-0.312531,51.442757
+2015,Richmond upon Thames,Violence Against the Person,2861,-0.312531,51.442757
+2015,Southwark,Burglary,2991,-0.08921,51.50541
+2015,Southwark,Criminal Damage,2572,-0.08921,51.50541
+2015,Southwark,Drugs,2272,-0.08921,51.50541
+2015,Southwark,Other Notifiable Offences,471,-0.08921,51.50541
+2015,Southwark,Robbery,1220,-0.08921,51.50541
+2015,Southwark,Theft and Handling,11855,-0.08921,51.50541
+2015,Southwark,Violence Against the Person,8879,-0.08921,51.50541
+2015,Sutton,Burglary,1279,-0.166667,51.3333
+2015,Sutton,Criminal Damage,1321,-0.166667,51.3333
+2015,Sutton,Drugs,500,-0.166667,51.3333
+2015,Sutton,Other Notifiable Offences,182,-0.166667,51.3333
+2015,Sutton,Robbery,163,-0.166667,51.3333
+2015,Sutton,Theft and Handling,3457,-0.166667,51.3333
+2015,Sutton,Violence Against the Person,3696,-0.166667,51.3333
+2015,Tower Hamlets,Burglary,2560,-0.05457,51.52017
+2015,Tower Hamlets,Criminal Damage,2426,-0.05457,51.52017
+2015,Tower Hamlets,Drugs,1812,-0.05457,51.52017
+2015,Tower Hamlets,Other Notifiable Offences,613,-0.05457,51.52017
+2015,Tower Hamlets,Robbery,1110,-0.05457,51.52017
+2015,Tower Hamlets,Theft and Handling,10143,-0.05457,51.52017
+2015,Tower Hamlets,Violence Against the Person,8829,-0.05457,51.52017
+2015,Waltham Forest,Burglary,2230,-0.015955,51.601154
+2015,Waltham Forest,Criminal Damage,1987,-0.015955,51.601154
+2015,Waltham Forest,Drugs,1448,-0.015955,51.601154
+2015,Waltham Forest,Other Notifiable Offences,412,-0.015955,51.601154
+2015,Waltham Forest,Robbery,643,-0.015955,51.601154
+2015,Waltham Forest,Theft and Handling,7336,-0.015955,51.601154
+2015,Waltham Forest,Violence Against the Person,6913,-0.015955,51.601154
+2015,Wandsworth,Burglary,2390,-0.194861,51.4573
+2015,Wandsworth,Criminal Damage,1928,-0.194861,51.4573
+2015,Wandsworth,Drugs,718,-0.194861,51.4573
+2015,Wandsworth,Other Notifiable Offences,487,-0.194861,51.4573
+2015,Wandsworth,Robbery,450,-0.194861,51.4573
+2015,Wandsworth,Theft and Handling,9504,-0.194861,51.4573
+2015,Wandsworth,Violence Against the Person,6924,-0.194861,51.4573
+2015,Westminster,Burglary,3152,-0.12802,51.50008
+2015,Westminster,Criminal Damage,2082,-0.12802,51.50008
+2015,Westminster,Drugs,2102,-0.12802,51.50008
+2015,Westminster,Other Notifiable Offences,726,-0.12802,51.50008
+2015,Westminster,Robbery,1497,-0.12802,51.50008
+2015,Westminster,Theft and Handling,27980,-0.12802,51.50008
+2015,Westminster,Violence Against the Person,9856,-0.12802,51.50008
+2016,Barking and Dagenham,Burglary,1287,0.133158,51.5465
+2016,Barking and Dagenham,Criminal Damage,1949,0.133158,51.5465
+2016,Barking and Dagenham,Drugs,919,0.133158,51.5465
+2016,Barking and Dagenham,Other Notifiable Offences,378,0.133158,51.5465
+2016,Barking and Dagenham,Robbery,534,0.133158,51.5465
+2016,Barking and Dagenham,Theft and Handling,5607,0.133158,51.5465
+2016,Barking and Dagenham,Violence Against the Person,6067,0.133158,51.5465
+2016,Barnet,Burglary,3402,-0.19622,51.6455
+2016,Barnet,Criminal Damage,2183,-0.19622,51.6455
+2016,Barnet,Drugs,906,-0.19622,51.6455
+2016,Barnet,Other Notifiable Offences,499,-0.19622,51.6455
+2016,Barnet,Robbery,464,-0.19622,51.6455
+2016,Barnet,Theft and Handling,9731,-0.19622,51.6455
+2016,Barnet,Violence Against the Person,7499,-0.19622,51.6455
+2016,Bexley,Burglary,1123,0.110969,51.45964
+2016,Bexley,Criminal Damage,1673,0.110969,51.45964
+2016,Bexley,Drugs,646,0.110969,51.45964
+2016,Bexley,Other Notifiable Offences,294,0.110969,51.45964
+2016,Bexley,Robbery,209,0.110969,51.45964
+2016,Bexley,Theft and Handling,4392,0.110969,51.45964
+2016,Bexley,Violence Against the Person,4503,0.110969,51.45964
+2016,Brent,Burglary,2631,-0.271275,51.5436
+2016,Brent,Criminal Damage,2280,-0.271275,51.5436
+2016,Brent,Drugs,2096,-0.271275,51.5436
+2016,Brent,Other Notifiable Offences,536,-0.271275,51.5436
+2016,Brent,Robbery,919,-0.271275,51.5436
+2016,Brent,Theft and Handling,9026,-0.271275,51.5436
+2016,Brent,Violence Against the Person,9205,-0.271275,51.5436
+2016,Bromley,Burglary,2214,0.01493,51.4057
+2016,Bromley,Criminal Damage,2202,0.01493,51.4057
+2016,Bromley,Drugs,728,0.01493,51.4057
+2016,Bromley,Other Notifiable Offences,417,0.01493,51.4057
+2016,Bromley,Robbery,369,0.01493,51.4057
+2016,Bromley,Theft and Handling,7584,0.01493,51.4057
+2016,Bromley,Violence Against the Person,6650,0.01493,51.4057
+2016,Camden,Burglary,2652,-0.12796,51.53236
+2016,Camden,Criminal Damage,1935,-0.12796,51.53236
+2016,Camden,Drugs,1493,-0.12796,51.53236
+2016,Camden,Other Notifiable Offences,490,-0.12796,51.53236
+2016,Camden,Robbery,899,-0.12796,51.53236
+2016,Camden,Theft and Handling,14088,-0.12796,51.53236
+2016,Camden,Violence Against the Person,7626,-0.12796,51.53236
+2016,City of London,Theft and Handling,129,-0.09743,51.5205
+2016,City of London,Violence Against the Person,25,-0.09743,51.5205
+2016,Croydon,Burglary,2738,-0.073803,51.36496
+2016,Croydon,Criminal Damage,3219,-0.073803,51.36496
+2016,Croydon,Drugs,1367,-0.073803,51.36496
+2016,Croydon,Other Notifiable Offences,718,-0.073803,51.36496
+2016,Croydon,Robbery,1139,-0.073803,51.36496
+2016,Croydon,Theft and Handling,9229,-0.073803,51.36496
+2016,Croydon,Violence Against the Person,10302,-0.073803,51.36496
+2016,Ealing,Burglary,2492,-0.29991,51.51407
+2016,Ealing,Criminal Damage,2562,-0.29991,51.51407
+2016,Ealing,Drugs,1355,-0.29991,51.51407
+2016,Ealing,Other Notifiable Offences,613,-0.29991,51.51407
+2016,Ealing,Robbery,669,-0.29991,51.51407
+2016,Ealing,Theft and Handling,10040,-0.29991,51.51407
+2016,Ealing,Violence Against the Person,9396,-0.29991,51.51407
+2016,Enfield,Burglary,2541,-0.076348,51.667797
+2016,Enfield,Criminal Damage,2136,-0.076348,51.667797
+2016,Enfield,Drugs,1063,-0.076348,51.667797
+2016,Enfield,Other Notifiable Offences,492,-0.076348,51.667797
+2016,Enfield,Robbery,807,-0.076348,51.667797
+2016,Enfield,Theft and Handling,8037,-0.076348,51.667797
+2016,Enfield,Violence Against the Person,7409,-0.076348,51.667797
+2016,Greenwich,Burglary,1780,0.00257,51.48451
+2016,Greenwich,Criminal Damage,2476,0.00257,51.48451
+2016,Greenwich,Drugs,867,0.00257,51.48451
+2016,Greenwich,Other Notifiable Offences,521,0.00257,51.48451
+2016,Greenwich,Robbery,486,0.00257,51.48451
+2016,Greenwich,Theft and Handling,8010,0.00257,51.48451
+2016,Greenwich,Violence Against the Person,8590,0.00257,51.48451
+2016,Hackney,Burglary,2719,-0.05833,51.55
+2016,Hackney,Criminal Damage,1981,-0.05833,51.55
+2016,Hackney,Drugs,1353,-0.05833,51.55
+2016,Hackney,Other Notifiable Offences,499,-0.05833,51.55
+2016,Hackney,Robbery,1030,-0.05833,51.55
+2016,Hackney,Theft and Handling,11851,-0.05833,51.55
+2016,Hackney,Violence Against the Person,8832,-0.05833,51.55
+2016,Hammersmith and Fulham,Burglary,1531,-0.220817,51.495045
+2016,Hammersmith and Fulham,Criminal Damage,1408,-0.220817,51.495045
+2016,Hammersmith and Fulham,Drugs,1321,-0.220817,51.495045
+2016,Hammersmith and Fulham,Other Notifiable Offences,474,-0.220817,51.495045
+2016,Hammersmith and Fulham,Robbery,397,-0.220817,51.495045
+2016,Hammersmith and Fulham,Theft and Handling,8925,-0.220817,51.495045
+2016,Hammersmith and Fulham,Violence Against the Person,6118,-0.220817,51.495045
+2016,Haringey,Burglary,2474,-0.071193,51.58784
+2016,Haringey,Criminal Damage,2233,-0.071193,51.58784
+2016,Haringey,Drugs,1540,-0.071193,51.58784
+2016,Haringey,Other Notifiable Offences,551,-0.071193,51.58784
+2016,Haringey,Robbery,1248,-0.071193,51.58784
+2016,Haringey,Theft and Handling,10554,-0.071193,51.58784
+2016,Haringey,Violence Against the Person,8574,-0.071193,51.58784
+2016,Harrow,Burglary,1994,-0.46443,51.4801
+2016,Harrow,Criminal Damage,1212,-0.46443,51.4801
+2016,Harrow,Drugs,473,-0.46443,51.4801
+2016,Harrow,Other Notifiable Offences,267,-0.46443,51.4801
+2016,Harrow,Robbery,377,-0.46443,51.4801
+2016,Harrow,Theft and Handling,4537,-0.46443,51.4801
+2016,Harrow,Violence Against the Person,4293,-0.46443,51.4801
+2016,Havering,Burglary,1826,0.255151,51.570454
+2016,Havering,Criminal Damage,1804,0.255151,51.570454
+2016,Havering,Drugs,718,0.255151,51.570454
+2016,Havering,Other Notifiable Offences,389,0.255151,51.570454
+2016,Havering,Robbery,311,0.255151,51.570454
+2016,Havering,Theft and Handling,5919,0.255151,51.570454
+2016,Havering,Violence Against the Person,5936,0.255151,51.570454
+2016,Hillingdon,Burglary,2229,-0.44998,51.54304
+2016,Hillingdon,Criminal Damage,2470,-0.44998,51.54304
+2016,Hillingdon,Drugs,1042,-0.44998,51.54304
+2016,Hillingdon,Other Notifiable Offences,1305,-0.44998,51.54304
+2016,Hillingdon,Robbery,420,-0.44998,51.54304
+2016,Hillingdon,Theft and Handling,9045,-0.44998,51.54304
+2016,Hillingdon,Violence Against the Person,7830,-0.44998,51.54304
+2016,Hounslow,Burglary,1808,-0.361667,51.4675
+2016,Hounslow,Criminal Damage,2213,-0.361667,51.4675
+2016,Hounslow,Drugs,1086,-0.361667,51.4675
+2016,Hounslow,Other Notifiable Offences,665,-0.361667,51.4675
+2016,Hounslow,Robbery,392,-0.361667,51.4675
+2016,Hounslow,Theft and Handling,8682,-0.361667,51.4675
+2016,Hounslow,Violence Against the Person,7405,-0.361667,51.4675
+2016,Islington,Burglary,2051,-0.10614,51.53279
+2016,Islington,Criminal Damage,1903,-0.10614,51.53279
+2016,Islington,Drugs,1777,-0.10614,51.53279
+2016,Islington,Other Notifiable Offences,508,-0.10614,51.53279
+2016,Islington,Robbery,936,-0.10614,51.53279
+2016,Islington,Theft and Handling,12077,-0.10614,51.53279
+2016,Islington,Violence Against the Person,7840,-0.10614,51.53279
+2016,Kensington and Chelsea,Burglary,1449,-0.192221,51.501205
+2016,Kensington and Chelsea,Criminal Damage,1051,-0.192221,51.501205
+2016,Kensington and Chelsea,Drugs,1680,-0.192221,51.501205
+2016,Kensington and Chelsea,Other Notifiable Offences,326,-0.192221,51.501205
+2016,Kensington and Chelsea,Robbery,523,-0.192221,51.501205
+2016,Kensington and Chelsea,Theft and Handling,9855,-0.192221,51.501205
+2016,Kensington and Chelsea,Violence Against the Person,4696,-0.192221,51.501205
+2016,Kingston upon Thames,Burglary,879,-0.29142,51.41104
+2016,Kingston upon Thames,Criminal Damage,1054,-0.29142,51.41104
+2016,Kingston upon Thames,Drugs,743,-0.29142,51.41104
+2016,Kingston upon Thames,Other Notifiable Offences,189,-0.29142,51.41104
+2016,Kingston upon Thames,Robbery,121,-0.29142,51.41104
+2016,Kingston upon Thames,Theft and Handling,3803,-0.29142,51.41104
+2016,Kingston upon Thames,Violence Against the Person,3194,-0.29142,51.41104
+2016,Lambeth,Burglary,3087,-0.11108,51.49085
+2016,Lambeth,Criminal Damage,2764,-0.11108,51.49085
+2016,Lambeth,Drugs,2738,-0.11108,51.49085
+2016,Lambeth,Other Notifiable Offences,635,-0.11108,51.49085
+2016,Lambeth,Robbery,1196,-0.11108,51.49085
+2016,Lambeth,Theft and Handling,13155,-0.11108,51.49085
+2016,Lambeth,Violence Against the Person,10496,-0.11108,51.49085
+2016,Lewisham,Burglary,2071,-0.01213,51.45916
+2016,Lewisham,Criminal Damage,2351,-0.01213,51.45916
+2016,Lewisham,Drugs,1617,-0.01213,51.45916
+2016,Lewisham,Other Notifiable Offences,485,-0.01213,51.45916
+2016,Lewisham,Robbery,869,-0.01213,51.45916
+2016,Lewisham,Theft and Handling,7702,-0.01213,51.45916
+2016,Lewisham,Violence Against the Person,8809,-0.01213,51.45916
+2016,Merton,Burglary,1419,-0.166667,51.3833
+2016,Merton,Criminal Damage,1418,-0.166667,51.3833
+2016,Merton,Drugs,466,-0.166667,51.3833
+2016,Merton,Other Notifiable Offences,249,-0.166667,51.3833
+2016,Merton,Robbery,283,-0.166667,51.3833
+2016,Merton,Theft and Handling,4894,-0.166667,51.3833
+2016,Merton,Violence Against the Person,4026,-0.166667,51.3833
+2016,Newham,Burglary,2115,0.013242,51.524384
+2016,Newham,Criminal Damage,2496,0.013242,51.524384
+2016,Newham,Drugs,1684,0.013242,51.524384
+2016,Newham,Other Notifiable Offences,713,0.013242,51.524384
+2016,Newham,Robbery,1472,0.013242,51.524384
+2016,Newham,Theft and Handling,11964,0.013242,51.524384
+2016,Newham,Violence Against the Person,9646,0.013242,51.524384
+2016,Redbridge,Burglary,1997,0.083333,51.5667
+2016,Redbridge,Criminal Damage,1650,0.083333,51.5667
+2016,Redbridge,Drugs,1017,0.083333,51.5667
+2016,Redbridge,Other Notifiable Offences,381,0.083333,51.5667
+2016,Redbridge,Robbery,599,0.083333,51.5667
+2016,Redbridge,Theft and Handling,7447,0.083333,51.5667
+2016,Redbridge,Violence Against the Person,6411,0.083333,51.5667
+2016,Richmond upon Thames,Burglary,1359,-0.312531,51.442757
+2016,Richmond upon Thames,Criminal Damage,1148,-0.312531,51.442757
+2016,Richmond upon Thames,Drugs,320,-0.312531,51.442757
+2016,Richmond upon Thames,Other Notifiable Offences,217,-0.312531,51.442757
+2016,Richmond upon Thames,Robbery,106,-0.312531,51.442757
+2016,Richmond upon Thames,Theft and Handling,4769,-0.312531,51.442757
+2016,Richmond upon Thames,Violence Against the Person,3155,-0.312531,51.442757
+2016,Southwark,Burglary,2946,-0.08921,51.50541
+2016,Southwark,Criminal Damage,2621,-0.08921,51.50541
+2016,Southwark,Drugs,1838,-0.08921,51.50541
+2016,Southwark,Other Notifiable Offences,494,-0.08921,51.50541
+2016,Southwark,Robbery,1317,-0.08921,51.50541
+2016,Southwark,Theft and Handling,12946,-0.08921,51.50541
+2016,Southwark,Violence Against the Person,9474,-0.08921,51.50541
+2016,Sutton,Burglary,1233,-0.166667,51.3333
+2016,Sutton,Criminal Damage,1316,-0.166667,51.3333
+2016,Sutton,Drugs,461,-0.166667,51.3333
+2016,Sutton,Other Notifiable Offences,253,-0.166667,51.3333
+2016,Sutton,Robbery,165,-0.166667,51.3333
+2016,Sutton,Theft and Handling,3516,-0.166667,51.3333
+2016,Sutton,Violence Against the Person,3714,-0.166667,51.3333
+2016,Tower Hamlets,Burglary,2794,-0.05457,51.52017
+2016,Tower Hamlets,Criminal Damage,2357,-0.05457,51.52017
+2016,Tower Hamlets,Drugs,1629,-0.05457,51.52017
+2016,Tower Hamlets,Other Notifiable Offences,678,-0.05457,51.52017
+2016,Tower Hamlets,Robbery,1234,-0.05457,51.52017
+2016,Tower Hamlets,Theft and Handling,10953,-0.05457,51.52017
+2016,Tower Hamlets,Violence Against the Person,9608,-0.05457,51.52017
+2016,Waltham Forest,Burglary,1873,-0.015955,51.601154
+2016,Waltham Forest,Criminal Damage,1989,-0.015955,51.601154
+2016,Waltham Forest,Drugs,1042,-0.015955,51.601154
+2016,Waltham Forest,Other Notifiable Offences,444,-0.015955,51.601154
+2016,Waltham Forest,Robbery,602,-0.015955,51.601154
+2016,Waltham Forest,Theft and Handling,7357,-0.015955,51.601154
+2016,Waltham Forest,Violence Against the Person,7409,-0.015955,51.601154
+2016,Wandsworth,Burglary,2351,-0.194861,51.4573
+2016,Wandsworth,Criminal Damage,1836,-0.194861,51.4573
+2016,Wandsworth,Drugs,870,-0.194861,51.4573
+2016,Wandsworth,Other Notifiable Offences,415,-0.194861,51.4573
+2016,Wandsworth,Robbery,609,-0.194861,51.4573
+2016,Wandsworth,Theft and Handling,10789,-0.194861,51.4573
+2016,Wandsworth,Violence Against the Person,6809,-0.194861,51.4573
+2016,Westminster,Burglary,3218,-0.12802,51.50008
+2016,Westminster,Criminal Damage,2179,-0.12802,51.50008
+2016,Westminster,Drugs,2049,-0.12802,51.50008
+2016,Westminster,Other Notifiable Offences,708,-0.12802,51.50008
+2016,Westminster,Robbery,1822,-0.12802,51.50008
+2016,Westminster,Theft and Handling,27520,-0.12802,51.50008
+2016,Westminster,Violence Against the Person,10834,-0.12802,51.50008
